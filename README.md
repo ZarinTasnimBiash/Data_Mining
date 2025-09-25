@@ -89,18 +89,18 @@ Used 3 clustering techniques to group countries based on the effectiveness of th
 
 - Apply K-Means with k = 4 on the dataset.
 - Plot the dataset based on selected attributes to capture their distribution.
-[K-Means Figure 1](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans1.png)
-[K-Means Figure 2](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans2.png)
-[K-Means Figure 3](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans3.png)
-[K-Means Figure 4](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans4.png)
+- [K-Means Figure 1](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans1.png)
+- [K-Means Figure 2](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans2.png)
+- [K-Means Figure 3](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans3.png)
+- [K-Means Figure 4](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/KMeans4.png)
 
 ## DBScan
 
 - Final parameters giving clear clusters:
 	Epsilon = 0.15
 	Min_samples = 5
-[DBScan Figure 1](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/DBScan1.png)
-[DBScan Figure 2](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/DBScan3.png)
+- [DBScan Figure 1](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/DBScan1.png)
+- [DBScan Figure 2](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/DBScan3.png)
 
 ## Conclusion
 - The widely available data related to cervical cancer is quite large and detailed.
