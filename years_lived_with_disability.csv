@@ -1,0 +1,817 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+3,YLDs (Years Lived with Disability),8,Taiwan (Province of China),2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.05902817538,10.20798309165,3.31502240814
+3,YLDs (Years Lived with Disability),8,Taiwan (Province of China),2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.20119633893,13.22535995783,4.48577720119
+3,YLDs (Years Lived with Disability),8,Taiwan (Province of China),2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.66944395911,17.12772971021,6.239134171819999
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.199783580130001,15.882083698170002,3.69634814753
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.43590285159,26.10671130013,6.0103264111
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.92630076912,37.001042577060005,8.579280547269999
+3,YLDs (Years Lived with Disability),6,People's Republic of China,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.51086876813,22.8276574493,9.44666865289
+3,YLDs (Years Lived with Disability),6,People's Republic of China,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.808214122450001,10.35352728168,4.11704412673
+3,YLDs (Years Lived with Disability),6,People's Republic of China,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.153285715240001,17.0694545239,7.01815791332
+3,YLDs (Years Lived with Disability),6,People's Republic of China,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.144776716700001,22.2343425671,9.16258705251
+3,YLDs (Years Lived with Disability),7,Democratic People's Republic of Korea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.75898424375,43.57978110135,9.82885233923
+3,YLDs (Years Lived with Disability),8,Taiwan (Province of China),2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.12127687528,20.47153066786,7.689696346500001
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.72400000836,10.47889194307,2.5849477149699998
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.24852332154,16.34602856183,4.39013421409
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.83264427447,22.263524222250002,6.2952175424
+3,YLDs (Years Lived with Disability),10,Kingdom of Cambodia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.16359068142,11.19363131762,2.6941618891
+3,YLDs (Years Lived with Disability),10,Kingdom of Cambodia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.60445563446,19.419180180690002,4.79000721394
+3,YLDs (Years Lived with Disability),10,Kingdom of Cambodia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.62363693771,28.630962103759998,7.03628677767
+3,YLDs (Years Lived with Disability),11,Republic of Indonesia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.593642186130001,21.807828725049998,8.7738054564
+3,YLDs (Years Lived with Disability),10,Kingdom of Cambodia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.22274819054,32.07012300489,7.68585140699
+3,YLDs (Years Lived with Disability),11,Republic of Indonesia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.32015829078,7.87673672507,3.2361922224499997
+3,YLDs (Years Lived with Disability),11,Republic of Indonesia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.98431389235,13.194730909959999,5.4212166822
+3,YLDs (Years Lived with Disability),11,Republic of Indonesia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.207812021599999,19.87246186552,8.104291972939999
+3,YLDs (Years Lived with Disability),12,Lao People's Democratic Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.432021541910002,25.58802891227,6.03064625571
+3,YLDs (Years Lived with Disability),14,Republic of Maldives,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.38007280361,10.855380881670001,3.3920071931199995
+3,YLDs (Years Lived with Disability),13,Malaysia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.299144928209998,35.6111126303,9.91890737439
+3,YLDs (Years Lived with Disability),16,Republic of the Philippines,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.443498433570001,19.055369292840002,8.824829920460001
+3,YLDs (Years Lived with Disability),14,Republic of Maldives,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.5316476415799998,4.89117946344,1.06427174689
+3,YLDs (Years Lived with Disability),14,Republic of Maldives,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.1177235006599995,7.75457270949,1.76877918938
+3,YLDs (Years Lived with Disability),14,Republic of Maldives,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.77317630618,10.95247776845,2.67556444718
+3,YLDs (Years Lived with Disability),15,Republic of the Union of Myanmar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.01102791047,22.98731644897,6.810282344869999
+3,YLDs (Years Lived with Disability),18,Kingdom of Thailand,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.44747856519,36.74266357309,11.67469666649
+3,YLDs (Years Lived with Disability),13,Malaysia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.8717820813,10.54738998889,2.981135369
+3,YLDs (Years Lived with Disability),13,Malaysia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.49831080229,18.85153085912,6.247186429399999
+3,YLDs (Years Lived with Disability),13,Malaysia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.1745313563,31.364656201560003,9.02375879046
+3,YLDs (Years Lived with Disability),17,Democratic Socialist Republic of Sri Lanka,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.89737183359,15.751141986579999,4.59797625751
+3,YLDs (Years Lived with Disability),19,Democratic Republic of Timor-Leste,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.724185324379999,21.55301772024,6.2054236845799995
+3,YLDs (Years Lived with Disability),20,Socialist Republic of Viet Nam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.30349439755,31.78378917435,8.42546408608
+3,YLDs (Years Lived with Disability),22,Republic of Fiji,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.82325226601,65.37000486757,16.77236531601
+3,YLDs (Years Lived with Disability),23,Republic of Kiribati,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,54.442318914969995,90.40100925191,25.85697951808
+3,YLDs (Years Lived with Disability),24,Republic of the Marshall Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.36002507531,61.053849726850004,13.58221985445
+3,YLDs (Years Lived with Disability),15,Republic of the Union of Myanmar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.66247725625,10.60528301618,2.24807059609
+3,YLDs (Years Lived with Disability),15,Republic of the Union of Myanmar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.012510114509999,17.46107013335,3.92060019341
+3,YLDs (Years Lived with Disability),15,Republic of the Union of Myanmar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.30491374786,21.69874896503,5.9444661036
+3,YLDs (Years Lived with Disability),26,Independent State of Papua New Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.493797613639998,39.85466449771,8.20185320013
+3,YLDs (Years Lived with Disability),25,Federated States of Micronesia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.45757187265,52.118550394710006,12.83797614767
+3,YLDs (Years Lived with Disability),16,Republic of the Philippines,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.904571209179999,8.490710597269999,3.8382856085599997
+3,YLDs (Years Lived with Disability),16,Republic of the Philippines,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.67559163582,13.4629092302,6.335945035750001
+3,YLDs (Years Lived with Disability),16,Republic of the Philippines,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.67918404686,17.78065881695,8.26457425347
+3,YLDs (Years Lived with Disability),27,Independent State of Samoa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.495810808999998,46.9980061257,12.24815531659
+3,YLDs (Years Lived with Disability),28,Solomon Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.27444654649,56.844588469769995,14.026915572810001
+3,YLDs (Years Lived with Disability),17,Democratic Socialist Republic of Sri Lanka,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.80606290346,5.55004516413,1.02940045176
+3,YLDs (Years Lived with Disability),17,Democratic Socialist Republic of Sri Lanka,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.83904764689,9.02852342095,2.15408861628
+3,YLDs (Years Lived with Disability),17,Democratic Socialist Republic of Sri Lanka,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.22863179964,13.102122333719999,3.51310075409
+3,YLDs (Years Lived with Disability),18,Kingdom of Thailand,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.803868613170001,26.578963871230002,7.6490893476099995
+3,YLDs (Years Lived with Disability),18,Kingdom of Thailand,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.488030745649997,36.36988713401,10.934212038290001
+3,YLDs (Years Lived with Disability),18,Kingdom of Thailand,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.21542274151,40.98157599433,12.533250477010002
+3,YLDs (Years Lived with Disability),29,Kingdom of Tonga,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.65661307373,60.87707162375,14.915545566630001
+3,YLDs (Years Lived with Disability),30,Republic of Vanuatu,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.133846672649998,40.99530669674,9.42059955681
+3,YLDs (Years Lived with Disability),19,Democratic Republic of Timor-Leste,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.8823472313500003,7.9758368524000005,1.58892806454
+3,YLDs (Years Lived with Disability),19,Democratic Republic of Timor-Leste,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.22872925844,11.41182599869,2.7985940685
+3,YLDs (Years Lived with Disability),19,Democratic Republic of Timor-Leste,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.91940980006,18.08414051255,4.68385992513
+3,YLDs (Years Lived with Disability),33,Republic of Armenia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.765938013680001,20.81002151113,9.877072422609999
+3,YLDs (Years Lived with Disability),34,Republic of Azerbaijan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.93642367462,15.024372352479999,5.88680162837
+3,YLDs (Years Lived with Disability),35,Georgia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.158825370549998,30.72883978739,9.77991173367
+3,YLDs (Years Lived with Disability),36,Republic of Kazakhstan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.36206112317,36.32650927179,12.34333262657
+3,YLDs (Years Lived with Disability),20,Socialist Republic of Viet Nam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.1525997825,9.57072391252,2.18854705313
+3,YLDs (Years Lived with Disability),20,Socialist Republic of Viet Nam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.50450367818,17.27635130468,4.27899024248
+3,YLDs (Years Lived with Disability),20,Socialist Republic of Viet Nam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.48152404092,25.98153942864,7.460048498669999
+3,YLDs (Years Lived with Disability),37,Kyrgyz Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.07407634434,34.838194941219996,10.14064248054
+3,YLDs (Years Lived with Disability),38,Mongolia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.96939938223,37.195399428769996,9.65087126541
+3,YLDs (Years Lived with Disability),22,Republic of Fiji,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.6672533663,37.48641882853,8.48009347273
+3,YLDs (Years Lived with Disability),22,Republic of Fiji,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.09072241378,51.226092230400006,12.77317104741
+3,YLDs (Years Lived with Disability),22,Republic of Fiji,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,38.363460310419995,66.61686050822,18.25165517093
+3,YLDs (Years Lived with Disability),23,Republic of Kiribati,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.713615450179997,46.56980854551,11.68071203996
+3,YLDs (Years Lived with Disability),23,Republic of Kiribati,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.90564657569,72.39126808934,18.23340126642
+3,YLDs (Years Lived with Disability),23,Republic of Kiribati,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,57.34120201585,101.59300376364,28.37526395782
+3,YLDs (Years Lived with Disability),39,Republic of Tajikistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.03528963425,10.48007221872,3.1575073664
+3,YLDs (Years Lived with Disability),40,Turkmenistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.19096124285,30.098666546949996,9.19862588919
+3,YLDs (Years Lived with Disability),41,Republic of Uzbekistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.73735369245,30.3399739678,8.72585260664
+3,YLDs (Years Lived with Disability),24,Republic of the Marshall Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.175103459840003,31.0090080324,6.862189867720001
+3,YLDs (Years Lived with Disability),24,Republic of the Marshall Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.798988031350003,48.84504442587,10.25030646593
+3,YLDs (Years Lived with Disability),24,Republic of the Marshall Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.521577440579996,67.77858578229001,15.84611728939
+3,YLDs (Years Lived with Disability),43,Republic of Albania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.695362854679999,18.203925298890002,5.3083282160200005
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.278113205420002,36.30975925036,10.990421182610001
+3,YLDs (Years Lived with Disability),25,Federated States of Micronesia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.748484465649998,27.80373578535,6.364164637149999
+3,YLDs (Years Lived with Disability),25,Federated States of Micronesia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.367905784130002,41.183762296009995,9.32065655826
+3,YLDs (Years Lived with Disability),25,Federated States of Micronesia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.11772814655,58.02039378415,14.791991269830001
+3,YLDs (Years Lived with Disability),45,Republic of Bulgaria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.657262337689996,47.82085666171,17.28890551163
+3,YLDs (Years Lived with Disability),26,Independent State of Papua New Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.001941872249999,21.82164274894,5.02089976863
+3,YLDs (Years Lived with Disability),26,Independent State of Papua New Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.764542157080001,31.023707380629997,7.7264318365
+3,YLDs (Years Lived with Disability),26,Independent State of Papua New Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.36109313284,45.14542309756,9.335641534079999
+3,YLDs (Years Lived with Disability),46,Republic of Croatia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.329707808650003,26.4141794145,9.20961478045
+3,YLDs (Years Lived with Disability),27,Independent State of Samoa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.35924176195,30.32607370724,6.735797682329999
+3,YLDs (Years Lived with Disability),27,Independent State of Samoa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.427003993179998,40.504253417710004,9.828900188010001
+3,YLDs (Years Lived with Disability),27,Independent State of Samoa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.21684111399,54.64356461461,13.024110491170001
+3,YLDs (Years Lived with Disability),28,Solomon Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.06227130555,25.285148639930004,6.785293795149999
+3,YLDs (Years Lived with Disability),28,Solomon Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.23396466686,42.02351117702,8.10646594458
+3,YLDs (Years Lived with Disability),28,Solomon Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.047497694300006,64.43133256272,15.863468824460002
+3,YLDs (Years Lived with Disability),48,Hungary,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.32288013733,30.37322070414,11.341835956859999
+3,YLDs (Years Lived with Disability),47,Czech Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.07532779437,15.176114941529999,5.99020415831
+3,YLDs (Years Lived with Disability),29,Kingdom of Tonga,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.998290229490001,29.33349054639,6.65369832359
+3,YLDs (Years Lived with Disability),29,Kingdom of Tonga,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.14358731243,43.35577059319,11.171827749330001
+3,YLDs (Years Lived with Disability),29,Kingdom of Tonga,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.35433060726,65.12549091855,17.1802202302
+3,YLDs (Years Lived with Disability),49,North Macedonia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.54918584868,27.36867584602,9.472126715489999
+3,YLDs (Years Lived with Disability),50,Montenegro,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.307362203790003,38.55358836883,11.134041592460001
+3,YLDs (Years Lived with Disability),30,Republic of Vanuatu,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.378180575850001,19.67154122908,4.88829139293
+3,YLDs (Years Lived with Disability),30,Republic of Vanuatu,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.50781242226,29.836342451300002,7.94004037435
+3,YLDs (Years Lived with Disability),30,Republic of Vanuatu,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.74517864348,42.92038306429,10.9798573529
+3,YLDs (Years Lived with Disability),51,Republic of Poland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.08069693941,13.61466533368,6.810777290940001
+3,YLDs (Years Lived with Disability),52,Romania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.95401806638,50.938301954699995,19.17703451043
+3,YLDs (Years Lived with Disability),34,Republic of Azerbaijan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.92930557612,8.38661891478,2.49382170926
+3,YLDs (Years Lived with Disability),34,Republic of Azerbaijan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.33982000426,11.74145317071,4.1885897838
+3,YLDs (Years Lived with Disability),34,Republic of Azerbaijan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.82693896385,15.674393858820002,5.97686280938
+3,YLDs (Years Lived with Disability),53,Republic of Serbia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.289209974789998,50.09701694847001,15.07858314694
+3,YLDs (Years Lived with Disability),54,Slovak Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.974526730610002,30.61835011419,10.51914784887
+3,YLDs (Years Lived with Disability),35,Georgia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.64112453139,12.269726838619999,4.57953593399
+3,YLDs (Years Lived with Disability),35,Georgia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.71408906037,20.8778404692,8.57422259454
+3,YLDs (Years Lived with Disability),35,Georgia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.76660800852,28.3540757889,11.44856037547
+3,YLDs (Years Lived with Disability),33,Republic of Armenia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.91433374408,9.295774666969999,3.29710931511
+3,YLDs (Years Lived with Disability),33,Republic of Armenia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.28471657821,12.439447714890001,5.24711916726
+3,YLDs (Years Lived with Disability),33,Republic of Armenia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.26689945739,15.30957263091,6.42050340772
+3,YLDs (Years Lived with Disability),55,Republic of Slovenia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.877725678909997,48.94289855311,17.60445674862
+3,YLDs (Years Lived with Disability),37,Kyrgyz Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.411633773330001,15.039514345359999,5.19216885627
+3,YLDs (Years Lived with Disability),37,Kyrgyz Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.110631962049998,25.6020898526,8.242815982489999
+3,YLDs (Years Lived with Disability),37,Kyrgyz Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.5805682131,32.134351879,11.433215354689999
+3,YLDs (Years Lived with Disability),36,Republic of Kazakhstan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.44325553135,15.64044739881,6.17643243586
+3,YLDs (Years Lived with Disability),36,Republic of Kazakhstan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.91287894149,30.21747114691,11.93681652053
+3,YLDs (Years Lived with Disability),36,Republic of Kazakhstan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.57289688579,37.823229973189996,12.84415920441
+3,YLDs (Years Lived with Disability),57,Republic of Belarus,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.011441375169998,29.33469612835,11.2736753383
+3,YLDs (Years Lived with Disability),38,Mongolia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.06233629466,13.289008393020001,4.18649641696
+3,YLDs (Years Lived with Disability),38,Mongolia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.4156189637,25.71123423749,7.885948571729999
+3,YLDs (Years Lived with Disability),38,Mongolia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.40328607819,35.90137616727,9.11657305078
+3,YLDs (Years Lived with Disability),58,Republic of Estonia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.5878178644,30.35203302667,11.02414516315
+3,YLDs (Years Lived with Disability),39,Republic of Tajikistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.4655634353,6.57767672974,1.36816963421
+3,YLDs (Years Lived with Disability),39,Republic of Tajikistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.94287051689,9.12333625608,2.34314848195
+3,YLDs (Years Lived with Disability),39,Republic of Tajikistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.053616390849999,10.36997998916,3.02125584891
+3,YLDs (Years Lived with Disability),59,Republic of Latvia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.230083071920001,15.74691909971,6.18113946405
+3,YLDs (Years Lived with Disability),41,Republic of Uzbekistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.10248237404,10.25781490881,3.44987863627
+3,YLDs (Years Lived with Disability),41,Republic of Uzbekistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.56514190479,15.52233561371,5.42718494381
+3,YLDs (Years Lived with Disability),41,Republic of Uzbekistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.23060086189,27.93827209425,9.36535612447
+3,YLDs (Years Lived with Disability),60,Republic of Lithuania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.28564789478,27.961248129959998,11.43937515893
+3,YLDs (Years Lived with Disability),40,Turkmenistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.78597931628,15.58785818483,5.67268249697
+3,YLDs (Years Lived with Disability),40,Turkmenistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.57727516791,20.14531709236,7.54679551172
+3,YLDs (Years Lived with Disability),40,Turkmenistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.893474457049997,28.211688252930003,10.3343776122
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.81339012359,27.02398063029,10.62403935469
+3,YLDs (Years Lived with Disability),62,Russian Federation,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.129874451320003,30.87114487683,16.88965560611
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.86240754045,15.7076365772,5.2663930388899995
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.7104364935,29.72469512429,9.616567071670001
+3,YLDs (Years Lived with Disability),44,Bosnia and Herzegovina,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.85939784407,28.257839030499998,9.098121204529999
+3,YLDs (Years Lived with Disability),63,Ukraine,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.18383385063,13.33890371699,4.47453928683
+3,YLDs (Years Lived with Disability),43,Republic of Albania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.1136414848300005,12.38193255225,3.2155712061900004
+3,YLDs (Years Lived with Disability),43,Republic of Albania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.26127872979,16.58362287328,4.6244792043
+3,YLDs (Years Lived with Disability),43,Republic of Albania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.02477040063,18.489167314910002,5.64563458614
+3,YLDs (Years Lived with Disability),45,Republic of Bulgaria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.97184918518,24.357845679500002,7.58682497661
+3,YLDs (Years Lived with Disability),45,Republic of Bulgaria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.49881495057,40.43705893733,14.0369834823
+3,YLDs (Years Lived with Disability),45,Republic of Bulgaria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.81159747804,46.038981291190005,16.67130001968
+3,YLDs (Years Lived with Disability),46,Republic of Croatia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.87503607837,11.47454776278,3.83011732389
+3,YLDs (Years Lived with Disability),46,Republic of Croatia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.727839716190001,19.543847427659998,7.60667854023
+3,YLDs (Years Lived with Disability),46,Republic of Croatia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.4498079149,26.72229414866,9.109588889949999
+3,YLDs (Years Lived with Disability),48,Hungary,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.84892750489,17.42917230587,6.05726900347
+3,YLDs (Years Lived with Disability),48,Hungary,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.953271381409998,27.33906218624,9.3889626066
+3,YLDs (Years Lived with Disability),48,Hungary,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.57582474345,29.84140819881,9.95215386065
+3,YLDs (Years Lived with Disability),47,Czech Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.19027236195,12.10302441825,3.91762190052
+3,YLDs (Years Lived with Disability),47,Czech Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.40614278693,15.47812169017,5.25944017587
+3,YLDs (Years Lived with Disability),47,Czech Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.37984797172,15.750242977570002,6.487933417620001
+3,YLDs (Years Lived with Disability),49,North Macedonia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.770974681810001,14.38280001397,4.94558542319
+3,YLDs (Years Lived with Disability),49,North Macedonia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.139357975709999,22.94095952041,7.90085669881
+3,YLDs (Years Lived with Disability),49,North Macedonia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.42228602234,27.894141855900003,9.73671466047
+3,YLDs (Years Lived with Disability),50,Montenegro,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.83954449219,20.39183715014,6.55049958556
+3,YLDs (Years Lived with Disability),50,Montenegro,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.430681392319999,25.91119127782,8.001217757
+3,YLDs (Years Lived with Disability),50,Montenegro,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.16117481133,32.63740554273,10.22040544547
+3,YLDs (Years Lived with Disability),51,Republic of Poland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.37936387051,7.58116489476,3.55874131657
+3,YLDs (Years Lived with Disability),51,Republic of Poland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.6486425229899995,11.33903488748,5.07931063036
+3,YLDs (Years Lived with Disability),51,Republic of Poland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.18811073353,12.98660713658,6.1964263904
+3,YLDs (Years Lived with Disability),52,Romania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.802389839879998,25.346205407649997,8.46526653007
+3,YLDs (Years Lived with Disability),52,Romania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.19537317238,41.28426717371,15.00274861203
+3,YLDs (Years Lived with Disability),52,Romania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.12604726499,49.79770172736,17.90119757137
+3,YLDs (Years Lived with Disability),67,Japan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.36151020438,24.56565900608,12.02155564986
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.97432224806,39.28582976272,10.365479900419999
+3,YLDs (Years Lived with Disability),68,Republic of Korea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.45638899344,16.696477998829998,5.9798256810399995
+3,YLDs (Years Lived with Disability),53,Republic of Serbia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.850818115069998,21.80795782761,6.86615149843
+3,YLDs (Years Lived with Disability),53,Republic of Serbia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.51727712566,31.45804870398,9.54560326703
+3,YLDs (Years Lived with Disability),53,Republic of Serbia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.34216336029,41.00640397536,13.79650974814
+3,YLDs (Years Lived with Disability),69,Republic of Singapore,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.331424132179999,16.03743365212,6.4994932710999995
+3,YLDs (Years Lived with Disability),71,Australia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.03323237365,15.856062162519999,5.9431284132
+3,YLDs (Years Lived with Disability),72,New Zealand,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.78562545706,10.17557213703,4.23029137262
+3,YLDs (Years Lived with Disability),75,Republic of Austria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.338241601630001,13.05463525202,4.63075445524
+3,YLDs (Years Lived with Disability),74,Principality of Andorra,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.5240085602099995,11.00292259431,2.99492596369
+3,YLDs (Years Lived with Disability),76,Kingdom of Belgium,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.85722723487,15.50346931253,6.0334887564
+3,YLDs (Years Lived with Disability),77,Republic of Cyprus,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.94111794373,10.17259439671,3.1514837317400004
+3,YLDs (Years Lived with Disability),54,Slovak Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.24847518757,18.616143171050002,5.418328210119999
+3,YLDs (Years Lived with Disability),54,Slovak Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.36308676368,25.313042134419998,7.548782956549999
+3,YLDs (Years Lived with Disability),54,Slovak Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.79967598288,33.51370584237,9.832479249070001
+3,YLDs (Years Lived with Disability),55,Republic of Slovenia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.4479031479,35.39552903485,11.4263665765
+3,YLDs (Years Lived with Disability),55,Republic of Slovenia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.767126985830004,58.47607589197,21.49047993817
+3,YLDs (Years Lived with Disability),55,Republic of Slovenia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.08785855048,39.769217203269996,15.330760667729999
+3,YLDs (Years Lived with Disability),57,Republic of Belarus,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.628281636459999,14.08448887768,5.20081039532
+3,YLDs (Years Lived with Disability),57,Republic of Belarus,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.11538131346,25.86960684828,8.00928235222
+3,YLDs (Years Lived with Disability),57,Republic of Belarus,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.83410105742,29.06983197857,10.08456728711
+3,YLDs (Years Lived with Disability),58,Republic of Estonia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.07167051349,19.66853485044,6.891035910629999
+3,YLDs (Years Lived with Disability),58,Republic of Estonia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.34948084433,19.61924631002,7.58961297525
+3,YLDs (Years Lived with Disability),58,Republic of Estonia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.23641250983,28.85452433565,9.23749725143
+3,YLDs (Years Lived with Disability),59,Republic of Latvia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.79576907277,7.9628578458299994,2.5723619851
+3,YLDs (Years Lived with Disability),59,Republic of Latvia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.961460042470001,11.4069740038,3.9417703292899997
+3,YLDs (Years Lived with Disability),59,Republic of Latvia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.98584762909,17.48985536208,6.44960065036
+3,YLDs (Years Lived with Disability),60,Republic of Lithuania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.607851894109999,17.0256856815,5.89258122909
+3,YLDs (Years Lived with Disability),60,Republic of Lithuania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.768477210599999,24.20150119285,7.566931328970001
+3,YLDs (Years Lived with Disability),60,Republic of Lithuania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.23788826509,30.822167630400003,10.77794032035
+3,YLDs (Years Lived with Disability),78,Kingdom of Denmark,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.87905321218,14.47546140745,5.25653453091
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.73395249411,11.73537553465,4.48620781138
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.75744991982,23.24548754992,8.06712367751
+3,YLDs (Years Lived with Disability),61,Republic of Moldova,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.542758787089998,31.463877485180003,12.51444006438
+3,YLDs (Years Lived with Disability),79,Republic of Finland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.8858553338699995,11.99770128804,4.72873420974
+3,YLDs (Years Lived with Disability),62,Russian Federation,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.79751134653,22.92436967833,11.99646281201
+3,YLDs (Years Lived with Disability),62,Russian Federation,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.29799440172,36.326559339789995,18.49535546372
+3,YLDs (Years Lived with Disability),62,Russian Federation,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.573200978870002,37.08806630974,19.70654875505
+3,YLDs (Years Lived with Disability),80,French Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.50315944537,17.94003723217,6.876785271299999
+3,YLDs (Years Lived with Disability),63,Ukraine,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.8023497389500003,7.0089631168999995,1.67195638805
+3,YLDs (Years Lived with Disability),63,Ukraine,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.78554904476,10.44681731425,2.91683663626
+3,YLDs (Years Lived with Disability),63,Ukraine,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.0892460527,11.59855118015,3.7788346738799996
+3,YLDs (Years Lived with Disability),81,Federal Republic of Germany,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.05436635175,18.034223734570002,6.5676606497400005
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.50081257201,15.40093352166,4.5097405331600005
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.863696014880002,37.652363045289995,10.989056404540001
+3,YLDs (Years Lived with Disability),66,Brunei Darussalam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.801249426240002,32.369531716430004,9.844902467939999
+3,YLDs (Years Lived with Disability),82,Hellenic Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.89130993236,15.126392367280001,6.26643094074
+3,YLDs (Years Lived with Disability),83,Republic of Iceland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.32874367615,10.142770123170001,3.51815335241
+3,YLDs (Years Lived with Disability),67,Japan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.28662725377,14.4704040193,7.02207338667
+3,YLDs (Years Lived with Disability),67,Japan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.58326806817,20.388012151290003,9.78834608587
+3,YLDs (Years Lived with Disability),67,Japan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.563943845500003,23.30538950359,11.19362941693
+3,YLDs (Years Lived with Disability),84,Ireland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.02646283541,13.95869163623,5.37258591302
+3,YLDs (Years Lived with Disability),85,State of Israel,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.50303266407,8.75527331481,3.04946903015
+3,YLDs (Years Lived with Disability),86,Republic of Italy,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.921210917529999,13.535431361730001,6.68500946059
+3,YLDs (Years Lived with Disability),87,Grand Duchy of Luxembourg,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.45317921801,10.136774997529999,3.99688027856
+3,YLDs (Years Lived with Disability),68,Republic of Korea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.303150668080001,12.547937784330001,3.2082613191099996
+3,YLDs (Years Lived with Disability),68,Republic of Korea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.421414667050001,17.51131697612,5.76675744833
+3,YLDs (Years Lived with Disability),68,Republic of Korea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.8372394604,17.20083682072,5.92291182673
+3,YLDs (Years Lived with Disability),88,Republic of Malta,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.1075965262,9.82615417319,3.6000722112299997
+3,YLDs (Years Lived with Disability),69,Republic of Singapore,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.42755797496,9.09082391044,2.88702508606
+3,YLDs (Years Lived with Disability),69,Republic of Singapore,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.7066007225,9.603746280180001,3.01263316707
+3,YLDs (Years Lived with Disability),69,Republic of Singapore,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.10730463109,9.729303195429999,3.49586874488
+3,YLDs (Years Lived with Disability),89,Kingdom of the Netherlands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.49359075748,13.06895898268,4.82441009986
+3,YLDs (Years Lived with Disability),90,Kingdom of Norway,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.55614529382,15.048059931029998,7.332066435400001
+3,YLDs (Years Lived with Disability),71,Australia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.573446466110001,14.108427461989999,4.70371662811
+3,YLDs (Years Lived with Disability),71,Australia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.78792016962,17.097382297,6.171309398299999
+3,YLDs (Years Lived with Disability),71,Australia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.96613494946,19.98231210624,7.92524743355
+3,YLDs (Years Lived with Disability),72,New Zealand,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.08767059411,7.86370818532,2.95696128437
+3,YLDs (Years Lived with Disability),72,New Zealand,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.51894335626,8.7251706342,3.1795230799499996
+3,YLDs (Years Lived with Disability),72,New Zealand,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.21417013868,11.23920137454,4.37543587671
+3,YLDs (Years Lived with Disability),91,Portuguese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.64911517602,23.29584933952,8.649244919040001
+3,YLDs (Years Lived with Disability),92,Kingdom of Spain,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.54167239149,17.64754673703,6.7223996688100005
+3,YLDs (Years Lived with Disability),93,Kingdom of Sweden,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.600093376909999,9.73766631347,4.1220449088699995
+3,YLDs (Years Lived with Disability),74,Principality of Andorra,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.68131838617,8.979849511400001,1.9616798326800002
+3,YLDs (Years Lived with Disability),74,Principality of Andorra,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.39268188697,12.503781436209998,2.80055427422
+3,YLDs (Years Lived with Disability),74,Principality of Andorra,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.88857458076,12.15722916514,3.20972063415
+3,YLDs (Years Lived with Disability),94,Swiss Confederation,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.48275555633,11.822557450529999,4.30820786432
+3,YLDs (Years Lived with Disability),75,Republic of Austria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.0540531318,8.261105173579999,2.64070208721
+3,YLDs (Years Lived with Disability),75,Republic of Austria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.855881128850001,11.255769378270001,3.7292377349300003
+3,YLDs (Years Lived with Disability),75,Republic of Austria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.661827538939999,13.66515161399,5.23114042023
+3,YLDs (Years Lived with Disability),95,United Kingdom of Great Britain and Northern Ireland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.71676744703,12.96620899358,6.78174786722
+3,YLDs (Years Lived with Disability),76,Kingdom of Belgium,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.89229093261,9.83792097057,3.04084541651
+3,YLDs (Years Lived with Disability),76,Kingdom of Belgium,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.7037038438400005,12.65497103596,4.28668436759
+3,YLDs (Years Lived with Disability),76,Kingdom of Belgium,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.11962413297,14.22005923392,5.6387140949
+3,YLDs (Years Lived with Disability),77,Republic of Cyprus,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.7905011901100005,10.897882346900001,2.6552029195799998
+3,YLDs (Years Lived with Disability),77,Republic of Cyprus,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.06329322197,14.410761309669999,3.84727630436
+3,YLDs (Years Lived with Disability),77,Republic of Cyprus,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.79508361471,12.757052776279998,4.10760857798
+3,YLDs (Years Lived with Disability),97,Argentine Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.48739120778,39.72651138669,13.026852487800001
+3,YLDs (Years Lived with Disability),78,Kingdom of Denmark,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.01257885181,12.7650847895,4.397297962190001
+3,YLDs (Years Lived with Disability),78,Kingdom of Denmark,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.487442791160001,16.97722006395,5.96355750314
+3,YLDs (Years Lived with Disability),78,Kingdom of Denmark,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.42967382877,16.48310367595,6.07422595631
+3,YLDs (Years Lived with Disability),98,Republic of Chile,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.451691334499998,30.723184711339997,10.758594163189999
+3,YLDs (Years Lived with Disability),99,Eastern Republic of Uruguay,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.09945212979,33.9000140403,11.10814527196
+3,YLDs (Years Lived with Disability),79,Republic of Finland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.58843403886,7.448126437899999,2.35976698026
+3,YLDs (Years Lived with Disability),79,Republic of Finland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.31836680014,10.40789185098,3.58611905389
+3,YLDs (Years Lived with Disability),79,Republic of Finland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.45657221393,12.13007249706,4.13163909768
+3,YLDs (Years Lived with Disability),80,French Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.34931090299,10.69569157356,3.43142072881
+3,YLDs (Years Lived with Disability),80,French Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.91216991822,14.04305920842,5.07182722103
+3,YLDs (Years Lived with Disability),80,French Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.98946915338,15.808983586870001,5.66198060197
+3,YLDs (Years Lived with Disability),81,Federal Republic of Germany,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.55837264829,13.709204692079998,4.8194818914
+3,YLDs (Years Lived with Disability),81,Federal Republic of Germany,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.77558412048,19.128434443339998,6.7583706803900006
+3,YLDs (Years Lived with Disability),81,Federal Republic of Germany,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.04910779157,17.44848600484,6.11768977816
+3,YLDs (Years Lived with Disability),101,Canada,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.05170159477,23.45408487586,7.75189135325
+3,YLDs (Years Lived with Disability),82,Hellenic Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.86044724717,9.38203914022,3.26268650809
+3,YLDs (Years Lived with Disability),82,Hellenic Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.82138444724,10.52197473567,3.8121225626500004
+3,YLDs (Years Lived with Disability),82,Hellenic Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.96521807795,13.702196519140001,5.27324308888
+3,YLDs (Years Lived with Disability),102,United States of America,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.91595069416,18.89112846571,10.02453889619
+3,YLDs (Years Lived with Disability),84,Ireland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.2340432941,12.56213199368,3.64336579385
+3,YLDs (Years Lived with Disability),84,Ireland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.977427048020001,20.564076728,6.83598565368
+3,YLDs (Years Lived with Disability),84,Ireland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.358300474959998,20.27294323749,7.8577683681899995
+3,YLDs (Years Lived with Disability),83,Republic of Iceland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.99482814839,10.06034069078,3.13411957424
+3,YLDs (Years Lived with Disability),83,Republic of Iceland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.72645251951,14.56039531843,4.9926108511
+3,YLDs (Years Lived with Disability),83,Republic of Iceland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.03332744991,9.87190671074,3.2159993685700003
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.821728186359998,38.20472412247,13.535664744240002
+3,YLDs (Years Lived with Disability),85,State of Israel,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.92166092545,6.94204916782,1.9952833300400001
+3,YLDs (Years Lived with Disability),85,State of Israel,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.3808859482899996,10.61362167288,3.47248283911
+3,YLDs (Years Lived with Disability),85,State of Israel,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.16765256104,9.85567613169,3.5012454998400004
+3,YLDs (Years Lived with Disability),106,Commonwealth of the Bahamas,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.21707064658,44.08571510132,14.71734811945
+3,YLDs (Years Lived with Disability),107,Barbados,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.26675818084,50.73790504534,17.00142658572
+3,YLDs (Years Lived with Disability),86,Republic of Italy,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.36555984678,7.8348771604400005,3.5074723514699997
+3,YLDs (Years Lived with Disability),86,Republic of Italy,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.78694460562,12.706379854849999,5.85529152669
+3,YLDs (Years Lived with Disability),86,Republic of Italy,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.89219166058,13.969315417350002,6.365680425180001
+3,YLDs (Years Lived with Disability),108,Belize,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.26813214421,68.40444048935,27.05751907097
+3,YLDs (Years Lived with Disability),87,Grand Duchy of Luxembourg,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.40631855298,5.79061421711,1.70771318633
+3,YLDs (Years Lived with Disability),87,Grand Duchy of Luxembourg,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.30510730276,7.06259495887,2.30589737499
+3,YLDs (Years Lived with Disability),87,Grand Duchy of Luxembourg,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.36379213873,6.95947815607,2.46368771603
+3,YLDs (Years Lived with Disability),109,Republic of Cuba,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.54803009141,37.35954547597,12.39770395114
+3,YLDs (Years Lived with Disability),110,Commonwealth of Dominica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.63297564968,45.98250429164,14.360039852400002
+3,YLDs (Years Lived with Disability),111,Dominican Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.48302882131,35.84473279965,10.4601615668
+3,YLDs (Years Lived with Disability),112,Grenada,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.9812388029,52.972531760369996,17.57611969537
+3,YLDs (Years Lived with Disability),88,Republic of Malta,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.08610149144,10.6931127398,3.42215640508
+3,YLDs (Years Lived with Disability),88,Republic of Malta,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.83098051708,11.34530616356,3.75341054526
+3,YLDs (Years Lived with Disability),88,Republic of Malta,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.897588460130001,12.83509406738,4.3772380191
+3,YLDs (Years Lived with Disability),89,Kingdom of the Netherlands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.847675799539999,11.474152515110001,3.75699257988
+3,YLDs (Years Lived with Disability),89,Kingdom of the Netherlands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.666248981430001,12.410436696420001,4.0364681227000005
+3,YLDs (Years Lived with Disability),89,Kingdom of the Netherlands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.40275867759,13.15135582311,4.89192330136
+3,YLDs (Years Lived with Disability),113,Republic of Guyana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.386315070400002,44.728071543169996,13.660246478580001
+3,YLDs (Years Lived with Disability),90,Kingdom of Norway,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.77872947813,11.32417592396,5.10161702428
+3,YLDs (Years Lived with Disability),90,Kingdom of Norway,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.63134968187,14.13066160866,6.33549820764
+3,YLDs (Years Lived with Disability),90,Kingdom of Norway,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.619072334950001,15.26436054505,7.225216830030001
+3,YLDs (Years Lived with Disability),91,Portuguese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.669702014570001,18.12917076828,6.46623306172
+3,YLDs (Years Lived with Disability),91,Portuguese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.715342350819999,19.57148290245,7.37321770107
+3,YLDs (Years Lived with Disability),91,Portuguese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.20480910885,19.6356884906,7.64731830137
+3,YLDs (Years Lived with Disability),114,Republic of Haiti,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.76683012024,61.239950743769995,16.1937732655
+3,YLDs (Years Lived with Disability),92,Kingdom of Spain,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.01776209631,9.76084331461,3.44078960997
+3,YLDs (Years Lived with Disability),92,Kingdom of Spain,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.36544097745,12.0435736392,3.8918166308899997
+3,YLDs (Years Lived with Disability),92,Kingdom of Spain,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.17361763347,16.38310181495,6.04788774292
+3,YLDs (Years Lived with Disability),115,Jamaica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.01182780157,55.71693750196,17.39462637981
+3,YLDs (Years Lived with Disability),94,Swiss Confederation,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.2513305170699995,8.84318795505,2.69752034978
+3,YLDs (Years Lived with Disability),94,Swiss Confederation,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.43478298432,9.23045493611,2.8242765897699997
+3,YLDs (Years Lived with Disability),94,Swiss Confederation,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.4454555549200006,10.762205891919999,3.75012692545
+3,YLDs (Years Lived with Disability),93,Kingdom of Sweden,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.20246445358,11.060688233870001,4.35987297066
+3,YLDs (Years Lived with Disability),93,Kingdom of Sweden,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.58410230161,15.00374874035,5.713583960209999
+3,YLDs (Years Lived with Disability),93,Kingdom of Sweden,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.9618936112,13.486113768520001,5.5778776387499995
+3,YLDs (Years Lived with Disability),116,Saint Lucia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.262164032559998,47.018248732610004,17.53059528504
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.97779837771,64.05125360378,23.66648783826
+3,YLDs (Years Lived with Disability),95,United Kingdom of Great Britain and Northern Ireland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.520734036879999,20.43520416744,10.045717914759999
+3,YLDs (Years Lived with Disability),95,United Kingdom of Great Britain and Northern Ireland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.3032180192,22.69982724955,11.32161730061
+3,YLDs (Years Lived with Disability),95,United Kingdom of Great Britain and Northern Ireland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.20022358631,18.11431226826,9.17322261806
+3,YLDs (Years Lived with Disability),118,Republic of Suriname,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.559193627760003,47.3276357176,14.23314348791
+3,YLDs (Years Lived with Disability),119,Republic of Trinidad and Tobago,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.18751284891,43.06143170635,14.518778601749998
+3,YLDs (Years Lived with Disability),97,Argentine Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.67733391929,38.48532147223,14.58115315161
+3,YLDs (Years Lived with Disability),97,Argentine Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.351718928,45.42150070419,16.55221793429
+3,YLDs (Years Lived with Disability),97,Argentine Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.387356148739997,45.82069483421,16.59732366893
+3,YLDs (Years Lived with Disability),121,Plurinational State of Bolivia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.1013001491,59.05851087794,15.777252546789999
+3,YLDs (Years Lived with Disability),98,Republic of Chile,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.11380228151,27.727718550010003,9.24133332919
+3,YLDs (Years Lived with Disability),98,Republic of Chile,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.47797736727,35.484587537559996,13.31457767562
+3,YLDs (Years Lived with Disability),98,Republic of Chile,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.72510010866,31.988612021770003,12.013032389700001
+3,YLDs (Years Lived with Disability),99,Eastern Republic of Uruguay,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.27584940221,32.97107313235,11.85690387578
+3,YLDs (Years Lived with Disability),99,Eastern Republic of Uruguay,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.576448860520003,44.56397368475,16.018491834480002
+3,YLDs (Years Lived with Disability),99,Eastern Republic of Uruguay,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.40236665258,43.625864207759996,14.61648024185
+3,YLDs (Years Lived with Disability),122,Republic of Ecuador,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.9406215978,43.053404166570004,14.46311719362
+3,YLDs (Years Lived with Disability),101,Canada,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.385482231960001,25.38833236655,8.41362460651
+3,YLDs (Years Lived with Disability),101,Canada,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.30615795615,30.07884750796,10.91448088282
+3,YLDs (Years Lived with Disability),101,Canada,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.928759774579998,28.58169681837,9.306094279669999
+3,YLDs (Years Lived with Disability),123,Republic of Peru,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.64855368531,62.93799330127,22.12711504227
+3,YLDs (Years Lived with Disability),102,United States of America,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.43556214983,17.0418110322,8.73855997427
+3,YLDs (Years Lived with Disability),102,United States of America,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.09053750087,20.62829310016,10.44049963772
+3,YLDs (Years Lived with Disability),102,United States of America,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.859355788690001,20.155338873,10.491935012299999
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.343051129560001,17.19020147402,6.93665855539
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.04832060238,29.28376425843,11.16399018443
+3,YLDs (Years Lived with Disability),105,Antigua and Barbuda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.02940090848,33.80872623962,13.6126371861
+3,YLDs (Years Lived with Disability),125,Republic of Colombia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.33465623431,50.99626281319,16.66391860282
+3,YLDs (Years Lived with Disability),106,Commonwealth of the Bahamas,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.94336086049,32.300664418779995,10.84609964022
+3,YLDs (Years Lived with Disability),106,Commonwealth of the Bahamas,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.14266814799,42.098742685030004,14.66312442628
+3,YLDs (Years Lived with Disability),106,Commonwealth of the Bahamas,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.684395118879998,44.15254463156,15.09387222216
+3,YLDs (Years Lived with Disability),107,Barbados,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.29247849543,28.00372026952,9.54671322792
+3,YLDs (Years Lived with Disability),107,Barbados,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.1993668547,46.41055835004,17.38948326927
+3,YLDs (Years Lived with Disability),107,Barbados,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.00976937924,51.2450644257,17.18477220339
+3,YLDs (Years Lived with Disability),126,Republic of Costa Rica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.21672586216,39.44514256783,12.82203423651
+3,YLDs (Years Lived with Disability),127,Republic of El Salvador,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,47.16938665963,75.74950360267,27.23301479003
+3,YLDs (Years Lived with Disability),128,Republic of Guatemala,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.842697959919995,53.96258261819,20.69623361807
+3,YLDs (Years Lived with Disability),108,Belize,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.31611390372,38.09638634884,14.71810993349
+3,YLDs (Years Lived with Disability),108,Belize,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,46.27624287727,73.15050811325,27.932629647259997
+3,YLDs (Years Lived with Disability),108,Belize,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.4997520564,60.553737273429995,24.30720116838
+3,YLDs (Years Lived with Disability),109,Republic of Cuba,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.51106626193,25.424685915439998,8.59960024455
+3,YLDs (Years Lived with Disability),109,Republic of Cuba,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.24325117105,35.551746160540006,12.18260121563
+3,YLDs (Years Lived with Disability),109,Republic of Cuba,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.67406487895,39.65583449491,15.477164102349999
+3,YLDs (Years Lived with Disability),110,Commonwealth of Dominica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.851033314539999,29.138266198670003,7.580356420559999
+3,YLDs (Years Lived with Disability),110,Commonwealth of Dominica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.739251544370003,43.09362640613,13.075420640639999
+3,YLDs (Years Lived with Disability),110,Commonwealth of Dominica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.342357810070002,46.38595356589,12.21278649756
+3,YLDs (Years Lived with Disability),111,Dominican Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.1163357804,30.01495271586,7.31528398185
+3,YLDs (Years Lived with Disability),111,Dominican Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.59017224844,43.42245833631,13.405236353069999
+3,YLDs (Years Lived with Disability),111,Dominican Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.52987985679,43.21191379631,11.27181806224
+3,YLDs (Years Lived with Disability),112,Grenada,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.48018442263,38.76153730317,13.21893493393
+3,YLDs (Years Lived with Disability),112,Grenada,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.13565290659,66.21352157078,22.3675232363
+3,YLDs (Years Lived with Disability),112,Grenada,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.97595143459,53.65512572211,18.64811794247
+3,YLDs (Years Lived with Disability),113,Republic of Guyana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.512719027579998,32.61737374086,9.54978282139
+3,YLDs (Years Lived with Disability),113,Republic of Guyana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.384023183880004,44.39383528855,12.00515409891
+3,YLDs (Years Lived with Disability),113,Republic of Guyana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.869322978910002,44.45746846798,12.446893227330001
+3,YLDs (Years Lived with Disability),129,Republic of Honduras,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.76724881801,54.73081019842,13.03447691953
+3,YLDs (Years Lived with Disability),114,Republic of Haiti,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.78258368181,42.42510455627,10.49721259184
+3,YLDs (Years Lived with Disability),114,Republic of Haiti,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.91057963448,55.451834388289996,13.94986659392
+3,YLDs (Years Lived with Disability),114,Republic of Haiti,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.69558798837,58.23477634412,13.22978456767
+3,YLDs (Years Lived with Disability),115,Jamaica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.57410859926,34.550944284399996,10.11664419464
+3,YLDs (Years Lived with Disability),115,Jamaica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.35473865541,51.52147127881,14.51184943383
+3,YLDs (Years Lived with Disability),115,Jamaica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.21624944119,52.89800026836001,16.85752805012
+3,YLDs (Years Lived with Disability),131,Republic of Nicaragua,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.69304605009,53.08468750958001,18.65869004737
+3,YLDs (Years Lived with Disability),116,Saint Lucia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.05603573218,35.24151301648,12.95153585302
+3,YLDs (Years Lived with Disability),116,Saint Lucia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.01907436607,35.75733225629,13.445717708000002
+3,YLDs (Years Lived with Disability),116,Saint Lucia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.7321256373,45.30211344031,16.30487140403
+3,YLDs (Years Lived with Disability),130,United Mexican States,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.56839376145,28.515360876019997,15.37390242903
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.47345268661,26.462705662930002,9.13143731095
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,47.45287629782,72.84207913728,27.224156615149997
+3,YLDs (Years Lived with Disability),117,Saint Vincent and the Grenadines,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,44.58061434291,65.34120194235001,26.659907266269997
+3,YLDs (Years Lived with Disability),118,Republic of Suriname,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.33728105308,31.32766708364,9.61356064091
+3,YLDs (Years Lived with Disability),118,Republic of Suriname,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.239294863119998,51.56037679576,15.950695201170001
+3,YLDs (Years Lived with Disability),118,Republic of Suriname,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,38.45694685568,62.66730198958,20.67359450815
+3,YLDs (Years Lived with Disability),132,Republic of Panama,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.92445137136,53.151407679820004,18.10682791208
+3,YLDs (Years Lived with Disability),119,Republic of Trinidad and Tobago,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.7891419731,24.543106441349998,9.08018638185
+3,YLDs (Years Lived with Disability),119,Republic of Trinidad and Tobago,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.72245426618,50.2310575998,18.29033544792
+3,YLDs (Years Lived with Disability),119,Republic of Trinidad and Tobago,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.85575357706,51.35049414640999,18.03387658305
+3,YLDs (Years Lived with Disability),133,Bolivarian Republic of Venezuela,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,48.03546812434,76.72586637814,28.049481694700003
+3,YLDs (Years Lived with Disability),135,Federative Republic of Brazil,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.31673112762,23.37538277031,12.282336065850002
+3,YLDs (Years Lived with Disability),121,Plurinational State of Bolivia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.390530015800001,21.3427109742,5.96744085147
+3,YLDs (Years Lived with Disability),121,Plurinational State of Bolivia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.30463714152,36.20604472904,9.41564391377
+3,YLDs (Years Lived with Disability),121,Plurinational State of Bolivia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.786612313890004,47.81203216012,12.866100562200002
+3,YLDs (Years Lived with Disability),136,Republic of Paraguay,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.64558128748,58.09907639908,20.14980593787
+3,YLDs (Years Lived with Disability),122,Republic of Ecuador,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.483707839300001,21.57607362325,7.79423624146
+3,YLDs (Years Lived with Disability),122,Republic of Ecuador,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.07401063162,35.82332324063,12.46619634619
+3,YLDs (Years Lived with Disability),122,Republic of Ecuador,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.05458456406,40.52598352033,14.063896450009999
+3,YLDs (Years Lived with Disability),123,Republic of Peru,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.67093168432,26.254909895630004,7.85207717565
+3,YLDs (Years Lived with Disability),123,Republic of Peru,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.820573937049996,42.14169357274,13.92107737546
+3,YLDs (Years Lived with Disability),123,Republic of Peru,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.73982175932,55.959153748400006,16.341326552800002
+3,YLDs (Years Lived with Disability),139,People's Democratic Republic of Algeria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.4657345608800005,12.71236575669,3.8602662493
+3,YLDs (Years Lived with Disability),140,Kingdom of Bahrain,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.7631755181699997,6.5156614284600005,1.89526083769
+3,YLDs (Years Lived with Disability),141,Arab Republic of Egypt,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.47464416245,4.44539773146,1.13914077049
+3,YLDs (Years Lived with Disability),125,Republic of Colombia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.23220598739,36.980952474460004,13.55447139253
+3,YLDs (Years Lived with Disability),125,Republic of Colombia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.194236126049997,45.65268682178,17.55188969529
+3,YLDs (Years Lived with Disability),125,Republic of Colombia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.07395090058,49.129632089020006,18.5290660444
+3,YLDs (Years Lived with Disability),126,Republic of Costa Rica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.06370948418,24.06112579756,8.29433159514
+3,YLDs (Years Lived with Disability),126,Republic of Costa Rica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.036970217500002,38.62712576624,14.043595014609998
+3,YLDs (Years Lived with Disability),126,Republic of Costa Rica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.151253319580004,47.97599134486,15.848145998469999
+3,YLDs (Years Lived with Disability),142,Islamic Republic of Iran,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.3306130662,3.20841928867,1.48800471845
+3,YLDs (Years Lived with Disability),143,Republic of Iraq,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.8474231997499997,7.20651787318,1.72899950456
+3,YLDs (Years Lived with Disability),127,Republic of El Salvador,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.43081823764,39.09044337966,12.702211289010002
+3,YLDs (Years Lived with Disability),127,Republic of El Salvador,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.41687925721,58.88127667524,20.573849290360002
+3,YLDs (Years Lived with Disability),127,Republic of El Salvador,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.65518969216,69.84094684232,25.85855968894
+3,YLDs (Years Lived with Disability),144,Hashemite Kingdom of Jordan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.09862663152,5.49641680091,1.4453765673299999
+3,YLDs (Years Lived with Disability),145,State of Kuwait,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.13833634687,3.63627809612,0.96840245273
+3,YLDs (Years Lived with Disability),128,Republic of Guatemala,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.61035403829,26.817025567220004,10.03425065202
+3,YLDs (Years Lived with Disability),128,Republic of Guatemala,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.92675109036,42.74064102963,14.33766353756
+3,YLDs (Years Lived with Disability),128,Republic of Guatemala,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.744023148929998,47.78444644671,18.59332521639
+3,YLDs (Years Lived with Disability),129,Republic of Honduras,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.57753735651,23.76041622212,4.4584315697
+3,YLDs (Years Lived with Disability),129,Republic of Honduras,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.33658900549,37.59281986719,7.56129069044
+3,YLDs (Years Lived with Disability),129,Republic of Honduras,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.244513225949998,52.46296672002,11.23320412044
+3,YLDs (Years Lived with Disability),146,Lebanese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.76105444974,6.58184777341,1.87694560734
+3,YLDs (Years Lived with Disability),147,State of Libya,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.25118314824,21.99942960348,6.699627835819999
+3,YLDs (Years Lived with Disability),130,United Mexican States,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.21080173912,20.98738185975,10.81089147101
+3,YLDs (Years Lived with Disability),130,United Mexican States,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.50079959825,26.95870730584,14.662114708
+3,YLDs (Years Lived with Disability),130,United Mexican States,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.45774165588,28.25691444588,15.305040517320002
+3,YLDs (Years Lived with Disability),148,Kingdom of Morocco,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.54272510387,20.12456359254,5.4887440104000005
+3,YLDs (Years Lived with Disability),131,Republic of Nicaragua,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.97671807939,31.571660901540003,9.30346974227
+3,YLDs (Years Lived with Disability),131,Republic of Nicaragua,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.53267661211,54.98867737863,18.66729380104
+3,YLDs (Years Lived with Disability),131,Republic of Nicaragua,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.69477699352,58.100019632620004,19.47543794254
+3,YLDs (Years Lived with Disability),149,Palestine,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.23181550651,2.42035551846,0.45519981666000003
+3,YLDs (Years Lived with Disability),150,Sultanate of Oman,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.0567720561000002,5.34050884749,1.39822149155
+3,YLDs (Years Lived with Disability),151,State of Qatar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.24885222145,6.129984358470001,1.49321762972
+3,YLDs (Years Lived with Disability),132,Republic of Panama,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.795570922,44.37726400075,15.90587699113
+3,YLDs (Years Lived with Disability),132,Republic of Panama,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.46997900148,46.111321188030004,16.87027058313
+3,YLDs (Years Lived with Disability),132,Republic of Panama,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.90016618836,54.64431526605,18.69490735416
+3,YLDs (Years Lived with Disability),152,Kingdom of Saudi Arabia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.51984379207,8.29591355456,2.17588022076
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.64951427277,4.78566653684,1.04350908089
+3,YLDs (Years Lived with Disability),133,Bolivarian Republic of Venezuela,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.621147675,61.22701393,20.07370767753
+3,YLDs (Years Lived with Disability),133,Bolivarian Republic of Venezuela,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,50.777339436270005,80.54360797554,30.606801195409997
+3,YLDs (Years Lived with Disability),133,Bolivarian Republic of Venezuela,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,52.185087871949996,82.55537812245001,31.49850520529
+3,YLDs (Years Lived with Disability),154,Republic of Tunisia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.6377914462600005,10.07368162181,2.7352211075
+3,YLDs (Years Lived with Disability),135,Federative Republic of Brazil,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.448959340810001,20.01876311971,9.87868355627
+3,YLDs (Years Lived with Disability),135,Federative Republic of Brazil,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.068069985479998,24.106884316069998,12.353921367069999
+3,YLDs (Years Lived with Disability),135,Federative Republic of Brazil,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.13457282455,25.25226140796,13.656710960400002
+3,YLDs (Years Lived with Disability),155,Republic of Turkey,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.71443695474,6.30357885083,1.72777009547
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.97032783345,8.709812972489999,2.3018716441200002
+3,YLDs (Years Lived with Disability),136,Republic of Paraguay,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.38545665193,33.17690320113,10.27126434743
+3,YLDs (Years Lived with Disability),136,Republic of Paraguay,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.157691652909996,54.051209794959995,17.36079096843
+3,YLDs (Years Lived with Disability),136,Republic of Paraguay,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.658993284779996,60.75655794158,19.81032061273
+3,YLDs (Years Lived with Disability),157,Republic of Yemen,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.22662752654,7.78275554224,1.92022454425
+3,YLDs (Years Lived with Disability),160,Islamic Republic of Afghanistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.00802267261,22.5858405636,3.3259075348000002
+3,YLDs (Years Lived with Disability),161,People's Republic of Bangladesh,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.79936144413,21.951411357789997,6.7887905025
+3,YLDs (Years Lived with Disability),162,Kingdom of Bhutan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.03790669413,26.514418951019998,5.66781072912
+3,YLDs (Years Lived with Disability),140,Kingdom of Bahrain,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.71597240522,3.46442238403,0.6400239556
+3,YLDs (Years Lived with Disability),140,Kingdom of Bahrain,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.9826180441199996,5.56750926073,1.30605073767
+3,YLDs (Years Lived with Disability),140,Kingdom of Bahrain,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.06489978705,7.1586726484900005,1.96601214382
+3,YLDs (Years Lived with Disability),139,People's Democratic Republic of Algeria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.01686799058,7.497178299520001,1.70477628925
+3,YLDs (Years Lived with Disability),139,People's Democratic Republic of Algeria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.6191029742000005,11.63230670551,3.1047221648299996
+3,YLDs (Years Lived with Disability),139,People's Democratic Republic of Algeria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.99613580845,14.02294771629,4.03502894784
+3,YLDs (Years Lived with Disability),163,Republic of India,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.996889275170002,20.88799582674,10.49159528335
+3,YLDs (Years Lived with Disability),142,Islamic Republic of Iran,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.0900235453,1.6107644175,0.68947258266
+3,YLDs (Years Lived with Disability),142,Islamic Republic of Iran,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.6941851721999999,2.4832538948600003,1.08005991825
+3,YLDs (Years Lived with Disability),142,Islamic Republic of Iran,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.07772162947,3.0965002754500004,1.35565446328
+3,YLDs (Years Lived with Disability),164,Federal Democratic Republic of Nepal,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.512978068850002,27.427809062459996,5.9109057395799995
+3,YLDs (Years Lived with Disability),165,Islamic Republic of Pakistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.54819455555,8.910043396259999,3.1678123615300002
+3,YLDs (Years Lived with Disability),141,Arab Republic of Egypt,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.2444772261700001,2.5023874571499998,0.37422952949
+3,YLDs (Years Lived with Disability),141,Arab Republic of Egypt,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.00010565807,3.67174296407,0.80006122847
+3,YLDs (Years Lived with Disability),141,Arab Republic of Egypt,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.45171069846,4.18019056366,1.11463346916
+3,YLDs (Years Lived with Disability),144,Hashemite Kingdom of Jordan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.33563570414,2.84703933223,0.3614712799
+3,YLDs (Years Lived with Disability),144,Hashemite Kingdom of Jordan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.7143010352,3.60899770276,0.49551807008
+3,YLDs (Years Lived with Disability),144,Hashemite Kingdom of Jordan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.59268991256,5.12813144661,1.1494517768099999
+3,YLDs (Years Lived with Disability),143,Republic of Iraq,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.14691166292,2.47858738327,0.30415461568
+3,YLDs (Years Lived with Disability),143,Republic of Iraq,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.31374211467,4.54260415333,0.97149490341
+3,YLDs (Years Lived with Disability),143,Republic of Iraq,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.2189856276700004,5.879497025,1.5166451645499999
+3,YLDs (Years Lived with Disability),145,State of Kuwait,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,0.78965424456,1.8023439721599999,0.21520917797
+3,YLDs (Years Lived with Disability),145,State of Kuwait,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.41771545613,2.7301494464,0.5520088860100001
+3,YLDs (Years Lived with Disability),145,State of Kuwait,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.8588980057000002,3.35663094917,0.84602024371
+3,YLDs (Years Lived with Disability),168,Republic of Angola,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.043643984070002,48.92717206749,11.199854817610001
+3,YLDs (Years Lived with Disability),169,Central African Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.22266721164,66.28839012569,15.06718357337
+3,YLDs (Years Lived with Disability),147,State of Libya,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.20049255318,13.505289242640002,3.05979092433
+3,YLDs (Years Lived with Disability),147,State of Libya,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.8733344166,17.94530498166,4.38997567721
+3,YLDs (Years Lived with Disability),147,State of Libya,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.11257589172,21.99763284825,5.70998059692
+3,YLDs (Years Lived with Disability),170,Republic of the Congo,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,41.86750391418,80.43530484228,18.3880473693
+3,YLDs (Years Lived with Disability),148,Kingdom of Morocco,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.0476531186,5.98302384993,1.28850825689
+3,YLDs (Years Lived with Disability),148,Kingdom of Morocco,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.47946011451,12.74169287882,2.83219391528
+3,YLDs (Years Lived with Disability),148,Kingdom of Morocco,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.34928096968,16.82899045239,4.394172670140001
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.21242887239,52.95758745197001,11.87374607619
+3,YLDs (Years Lived with Disability),146,Lebanese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.87486659331,3.7109906098699996,0.6114839121
+3,YLDs (Years Lived with Disability),146,Lebanese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.99792955164,5.86493937068,1.29046339293
+3,YLDs (Years Lived with Disability),146,Lebanese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.54200543402,6.49220416029,1.7218640614000003
+3,YLDs (Years Lived with Disability),149,Palestine,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,0.6114192243200001,1.05594007239,0.32631726857000004
+3,YLDs (Years Lived with Disability),149,Palestine,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.13272724777,2.4768383267200003,0.36074953975
+3,YLDs (Years Lived with Disability),149,Palestine,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.0250298251,2.1714758006599997,0.32201074796
+3,YLDs (Years Lived with Disability),150,Sultanate of Oman,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.77118980468,3.43240870334,0.6953676757
+3,YLDs (Years Lived with Disability),150,Sultanate of Oman,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.78732590145,5.42707613463,1.13611633904
+3,YLDs (Years Lived with Disability),150,Sultanate of Oman,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.79972065217,4.9910065793800005,1.32016035263
+3,YLDs (Years Lived with Disability),172,Republic of Equatorial Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.189914621689997,65.12417789188,11.57590671718
+3,YLDs (Years Lived with Disability),173,Gabonese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.17737494053,54.047768889400004,12.566091065360002
+3,YLDs (Years Lived with Disability),175,Republic of Burundi,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.10072986008,53.966745261110006,12.35175197881
+3,YLDs (Years Lived with Disability),176,Union of the Comoros,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.16004893659,58.413467576829994,14.14554574309
+3,YLDs (Years Lived with Disability),177,Republic of Djibouti,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.274717233940002,62.04277425822001,12.852897970559999
+3,YLDs (Years Lived with Disability),178,State of Eritrea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,44.4568009074,78.18920278537,21.200814875779997
+3,YLDs (Years Lived with Disability),179,Federal Democratic Republic of Ethiopia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.54329241137,33.37580531847,10.79349108584
+3,YLDs (Years Lived with Disability),180,Republic of Kenya,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.73411411693,28.70831483456,11.70639089141
+3,YLDs (Years Lived with Disability),151,State of Qatar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.51015057553,3.23941778192,0.42455351343
+3,YLDs (Years Lived with Disability),151,State of Qatar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.57845751108,5.3622617556,0.99289027584
+3,YLDs (Years Lived with Disability),151,State of Qatar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.62531646782,5.01964292315,0.95062119029
+3,YLDs (Years Lived with Disability),181,Republic of Madagascar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.15511582821,56.808650977439996,13.767152307449999
+3,YLDs (Years Lived with Disability),152,Kingdom of Saudi Arabia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.105546259,4.75987045231,0.74982388785
+3,YLDs (Years Lived with Disability),152,Kingdom of Saudi Arabia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.4429747583599997,6.65420750956,1.33888375684
+3,YLDs (Years Lived with Disability),152,Kingdom of Saudi Arabia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.57260646658,8.63980778898,2.02464381822
+3,YLDs (Years Lived with Disability),182,Republic of Malawi,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.68868288691,61.72518518234,17.57294991557
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.2630008949,2.59366447616,0.39864073927
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.08172198781,4.00418814593,0.71721042523
+3,YLDs (Years Lived with Disability),153,Syrian Arab Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.40667454522,4.54570104829,1.09739230638
+3,YLDs (Years Lived with Disability),154,Republic of Tunisia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.17685829534,6.350805864570001,1.16851639186
+3,YLDs (Years Lived with Disability),154,Republic of Tunisia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.0944000927,9.96251018755,2.35710332115
+3,YLDs (Years Lived with Disability),154,Republic of Tunisia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.9492073543699995,11.31024653274,2.68657651742
+3,YLDs (Years Lived with Disability),155,Republic of Turkey,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.6073824265599999,3.2565734128600003,0.51988174629
+3,YLDs (Years Lived with Disability),155,Republic of Turkey,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.8700964244500002,5.2428975974,1.2175526774899998
+3,YLDs (Years Lived with Disability),155,Republic of Turkey,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.2341652295600003,5.72148022264,1.3565776071
+3,YLDs (Years Lived with Disability),183,Republic of Mauritius,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.61414047849,23.86616122368,8.42972761692
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.0808690747600003,6.207418734579999,1.28917126826
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.2563831382400004,5.99185842389,1.2320374743
+3,YLDs (Years Lived with Disability),156,United Arab Emirates,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.56687138916,9.67821363715,2.6722255441600002
+3,YLDs (Years Lived with Disability),184,Republic of Mozambique,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.818477206400004,75.42677927033999,16.78141506906
+3,YLDs (Years Lived with Disability),157,Republic of Yemen,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.3126348851,2.80125063187,0.32874662861
+3,YLDs (Years Lived with Disability),157,Republic of Yemen,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2.6076781162700002,5.32126753333,1.00152301123
+3,YLDs (Years Lived with Disability),157,Republic of Yemen,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.9882900121500002,8.03825181969,1.7156804438100002
+3,YLDs (Years Lived with Disability),185,Republic of Rwanda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.56016938161,48.04020021228,12.09815721413
+3,YLDs (Years Lived with Disability),186,Republic of Seychelles,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.50374641572,57.97397642496,19.44019397552
+3,YLDs (Years Lived with Disability),160,Islamic Republic of Afghanistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.81336274506,9.47026292646,1.9808583667700002
+3,YLDs (Years Lived with Disability),160,Islamic Republic of Afghanistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.15975267184,15.752405175369999,3.16684497913
+3,YLDs (Years Lived with Disability),160,Islamic Republic of Afghanistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.054289463449999,21.26024140515,4.6637535133400005
+3,YLDs (Years Lived with Disability),161,People's Republic of Bangladesh,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.1244208388,10.14464090521,2.13288140064
+3,YLDs (Years Lived with Disability),161,People's Republic of Bangladesh,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.78164034271,16.116357643449998,4.01080646715
+3,YLDs (Years Lived with Disability),161,People's Republic of Bangladesh,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.447439437760002,21.60185761752,6.685331830750001
+3,YLDs (Years Lived with Disability),187,Federal Republic of Somalia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.59537919426,72.46266038219,17.48589637942
+3,YLDs (Years Lived with Disability),162,Kingdom of Bhutan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.71129302746,12.24584008639,2.26978770826
+3,YLDs (Years Lived with Disability),162,Kingdom of Bhutan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.4493595453,18.76251696675,4.02789977054
+3,YLDs (Years Lived with Disability),162,Kingdom of Bhutan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.13878848591,24.450571143919998,6.4400742083999996
+3,YLDs (Years Lived with Disability),163,Republic of India,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.7027142378699995,8.11551366618,3.7992025857100002
+3,YLDs (Years Lived with Disability),163,Republic of India,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.69148387237,11.99765339417,5.94971818388
+3,YLDs (Years Lived with Disability),163,Republic of India,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.33136180318,18.62453900095,9.2855913655
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.72873945303,48.39865798343,11.5973795908
+3,YLDs (Years Lived with Disability),190,Republic of Uganda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.793794626119997,49.18337653194,12.163130618110001
+3,YLDs (Years Lived with Disability),164,Federal Democratic Republic of Nepal,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.97301945268,11.975729006029999,2.38750914483
+3,YLDs (Years Lived with Disability),164,Federal Democratic Republic of Nepal,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.529470770909999,17.346446313839998,4.325723265760001
+3,YLDs (Years Lived with Disability),164,Federal Democratic Republic of Nepal,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.791487265259999,23.66537984081,7.2743824893
+3,YLDs (Years Lived with Disability),191,Republic of Zambia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,39.65726795416,85.23156157788999,18.20204717708
+3,YLDs (Years Lived with Disability),165,Islamic Republic of Pakistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.99010245762,6.57035013478,1.9723158833799999
+3,YLDs (Years Lived with Disability),165,Islamic Republic of Pakistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.9293819257600004,8.53679669406,2.59435585992
+3,YLDs (Years Lived with Disability),165,Islamic Republic of Pakistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.42023195509,9.10502051614,2.9340302452800002
+3,YLDs (Years Lived with Disability),168,Republic of Angola,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.998959363189998,28.17084436554,6.95454730136
+3,YLDs (Years Lived with Disability),168,Republic of Angola,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.62311712615,39.360958145430004,7.6948639733299995
+3,YLDs (Years Lived with Disability),168,Republic of Angola,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.67642051371,43.89634923472,9.90476705917
+3,YLDs (Years Lived with Disability),193,Republic of Botswana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.36665468463,42.99635335554,8.93891936277
+3,YLDs (Years Lived with Disability),169,Central African Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.00230925491,27.78071094419,6.80056428176
+3,YLDs (Years Lived with Disability),169,Central African Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.7457097339,39.70580371788,8.62250468203
+3,YLDs (Years Lived with Disability),169,Central African Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.77095519589,55.73873155237,12.03545195298
+3,YLDs (Years Lived with Disability),170,Republic of the Congo,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.16823656937,41.66729651253,7.8307749402799995
+3,YLDs (Years Lived with Disability),170,Republic of the Congo,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.4942794669,58.98451648359,12.62162063952
+3,YLDs (Years Lived with Disability),170,Republic of the Congo,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,37.72361800652,71.10507992998001,17.197705348779998
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.562489524350001,25.490249786139998,6.24275969523
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.9553042559,36.58635205212,7.61199541473
+3,YLDs (Years Lived with Disability),171,Democratic Republic of the Congo,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.78980563584,42.27374210121,10.16393073946
+3,YLDs (Years Lived with Disability),172,Republic of Equatorial Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.74141795532,34.13891618969,6.11228424174
+3,YLDs (Years Lived with Disability),172,Republic of Equatorial Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.57911029705,46.43164127858,8.81941308361
+3,YLDs (Years Lived with Disability),172,Republic of Equatorial Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.60174317599,55.779198744700004,10.10015689139
+3,YLDs (Years Lived with Disability),173,Gabonese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.07705552859,27.8994199642,6.2525688207000005
+3,YLDs (Years Lived with Disability),173,Gabonese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.15406951901,42.784564954400004,8.51532100298
+3,YLDs (Years Lived with Disability),173,Gabonese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.63248630741,50.43922793352,11.10051919308
+3,YLDs (Years Lived with Disability),194,Kingdom of Lesotho,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,52.3959770834,94.78930312812,22.92040432084
+3,YLDs (Years Lived with Disability),175,Republic of Burundi,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.75733762725,23.29903507205,5.44541439524
+3,YLDs (Years Lived with Disability),175,Republic of Burundi,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.644717007740002,33.1504724159,8.72884781617
+3,YLDs (Years Lived with Disability),175,Republic of Burundi,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.91014625131,46.229317141550005,11.02255049005
+3,YLDs (Years Lived with Disability),195,Republic of Namibia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.21591464914,42.112219853620005,9.28157567833
+3,YLDs (Years Lived with Disability),196,Republic of South Africa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,37.156481606679996,51.233845486849994,25.58861981167
+3,YLDs (Years Lived with Disability),197,Kingdom of Eswatini,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,48.37491333836,90.09304186681,21.03716989411
+3,YLDs (Years Lived with Disability),176,Union of the Comoros,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.72691901793,25.19453928219,5.90780500151
+3,YLDs (Years Lived with Disability),176,Union of the Comoros,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.69994192379,39.85247992617,8.843748930290001
+3,YLDs (Years Lived with Disability),176,Union of the Comoros,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.926622296199998,52.64589318413,13.233130670500001
+3,YLDs (Years Lived with Disability),177,Republic of Djibouti,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.77163055864,20.22908880804,3.7431259257100002
+3,YLDs (Years Lived with Disability),177,Republic of Djibouti,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.46952761723,33.301495579379996,7.27084326511
+3,YLDs (Years Lived with Disability),177,Republic of Djibouti,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.72273144643,50.48101239339999,10.93070403264
+3,YLDs (Years Lived with Disability),198,Republic of Zimbabwe,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,54.09860975138,99.15270705933,26.432250541050003
+3,YLDs (Years Lived with Disability),178,State of Eritrea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.76527639003,23.68927857437,5.2992680627099995
+3,YLDs (Years Lived with Disability),178,State of Eritrea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.06940343946,43.77444050718,10.064727693210001
+3,YLDs (Years Lived with Disability),178,State of Eritrea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,36.61584106531,67.1388935805,16.54446287114
+3,YLDs (Years Lived with Disability),179,Federal Democratic Republic of Ethiopia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.50739433795,12.75441790839,4.09516321567
+3,YLDs (Years Lived with Disability),179,Federal Democratic Republic of Ethiopia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.23412971575,19.83526204445,7.31179012254
+3,YLDs (Years Lived with Disability),179,Federal Democratic Republic of Ethiopia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.733253722379999,26.00366457351,9.1549835898
+3,YLDs (Years Lived with Disability),200,Republic of Benin,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.49715903068,30.45016337352,7.43623630377
+3,YLDs (Years Lived with Disability),180,Republic of Kenya,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.36354919011,10.4554028936,3.6259372325799997
+3,YLDs (Years Lived with Disability),180,Republic of Kenya,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.0798369361,18.21790464894,6.51673110201
+3,YLDs (Years Lived with Disability),180,Republic of Kenya,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.66143262687,25.45475632675,9.29321033541
+3,YLDs (Years Lived with Disability),201,Burkina Faso,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.04766640685,34.724029945670004,8.4647641639
+3,YLDs (Years Lived with Disability),181,Republic of Madagascar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.006626402970001,24.39563910626,6.347770796360001
+3,YLDs (Years Lived with Disability),181,Republic of Madagascar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.07113300769,40.81955361876,8.10671820942
+3,YLDs (Years Lived with Disability),181,Republic of Madagascar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.427984415550004,55.82899740805,11.94824859206
+3,YLDs (Years Lived with Disability),202,Republic of Cameroon,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.5146217997,39.87847410964,9.03281735468
+3,YLDs (Years Lived with Disability),182,Republic of Malawi,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.17116480023,38.39403000189,10.35241068279
+3,YLDs (Years Lived with Disability),182,Republic of Malawi,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.024034493299997,48.44297287921,13.14301368542
+3,YLDs (Years Lived with Disability),182,Republic of Malawi,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.18661583635,60.8318141149,15.561382455
+3,YLDs (Years Lived with Disability),203,Republic of Cabo Verde,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.448740290200002,26.92253523541,8.13074324356
+3,YLDs (Years Lived with Disability),183,Republic of Mauritius,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.908797635500001,10.80112249974,4.09512045794
+3,YLDs (Years Lived with Disability),183,Republic of Mauritius,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.65177764868,16.14123996295,6.50435403344
+3,YLDs (Years Lived with Disability),183,Republic of Mauritius,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.021910367410001,22.98854098415,8.73040275972
+3,YLDs (Years Lived with Disability),184,Republic of Mozambique,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.83242528952,30.599852251330002,6.959288751040001
+3,YLDs (Years Lived with Disability),184,Republic of Mozambique,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.5761366117,49.012998985530004,10.369567811780001
+3,YLDs (Years Lived with Disability),184,Republic of Mozambique,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.19360399337,67.92031531818999,14.206125171359998
+3,YLDs (Years Lived with Disability),204,Republic of Chad,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.092208437300002,38.59014408026,9.82864202362
+3,YLDs (Years Lived with Disability),185,Republic of Rwanda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.72788273932,20.74681544652,5.35262530998
+3,YLDs (Years Lived with Disability),185,Republic of Rwanda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.91901898449,36.19680655938,8.90067473453
+3,YLDs (Years Lived with Disability),185,Republic of Rwanda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.93656012609,43.45580748028,9.89965284144
+3,YLDs (Years Lived with Disability),205,Republic of Côte d'Ivoire,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.52572973444,22.69802523617,6.333538989429999
+3,YLDs (Years Lived with Disability),206,Republic of the Gambia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.535478469559997,38.51121812264,8.538367541609999
+3,YLDs (Years Lived with Disability),186,Republic of Seychelles,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.6089442488,26.786620534740003,7.04317855065
+3,YLDs (Years Lived with Disability),186,Republic of Seychelles,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.09600255344,39.84993747328,12.21554882401
+3,YLDs (Years Lived with Disability),186,Republic of Seychelles,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.522432442,52.47865434856,16.17730750305
+3,YLDs (Years Lived with Disability),207,Republic of Ghana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.25454375719,39.937989389900004,9.27931048756
+3,YLDs (Years Lived with Disability),187,Federal Republic of Somalia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.2601637536,23.97651163698,6.268623774189999
+3,YLDs (Years Lived with Disability),187,Federal Republic of Somalia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.47239388789,43.163392691919995,8.78842390392
+3,YLDs (Years Lived with Disability),187,Federal Republic of Somalia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.16765917512,62.777875633959994,13.04623219018
+3,YLDs (Years Lived with Disability),208,Republic of Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.02097395314,56.41668568063,14.44185635458
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.53751293924,20.995664194,5.58191975607
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.35517776423,33.18800823583,8.37624024591
+3,YLDs (Years Lived with Disability),189,United Republic of Tanzania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.17462493538,41.93172224018,11.02748996954
+3,YLDs (Years Lived with Disability),209,Republic of Guinea-Bissau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.95182147576,59.645226355050006,15.280754165329999
+3,YLDs (Years Lived with Disability),190,Republic of Uganda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.156872902140002,24.23708289232,6.224577640850001
+3,YLDs (Years Lived with Disability),190,Republic of Uganda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.392478196349998,37.23609013387,8.92218439154
+3,YLDs (Years Lived with Disability),190,Republic of Uganda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.95872825897,44.98317067344,11.496254350040001
+3,YLDs (Years Lived with Disability),210,Republic of Liberia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.65692241179,39.83266008252,9.40193256436
+3,YLDs (Years Lived with Disability),191,Republic of Zambia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.15987885931,42.204391386640005,7.314345182169999
+3,YLDs (Years Lived with Disability),191,Republic of Zambia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.52680487032,62.403545226540004,11.68149571773
+3,YLDs (Years Lived with Disability),191,Republic of Zambia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.4339169705,77.7117310361,14.44048403148
+3,YLDs (Years Lived with Disability),211,Republic of Mali,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.47504421191,35.934227268520004,9.16106557371
+3,YLDs (Years Lived with Disability),212,Islamic Republic of Mauritania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.78575155877,43.01682664719,9.70316870654
+3,YLDs (Years Lived with Disability),193,Republic of Botswana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.47701550376,17.30076514907,4.21748502467
+3,YLDs (Years Lived with Disability),193,Republic of Botswana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.475796152920001,29.622129733309997,6.8128595893799995
+3,YLDs (Years Lived with Disability),193,Republic of Botswana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.81360938046,41.08055660956,7.985810944120001
+3,YLDs (Years Lived with Disability),213,Republic of the Niger,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.64209336639,33.04240439658,8.21050500074
+3,YLDs (Years Lived with Disability),194,Kingdom of Lesotho,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.74060534666,31.55172432689,6.6134813467399995
+3,YLDs (Years Lived with Disability),194,Kingdom of Lesotho,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.93893414795,58.779980551049995,10.7899606928
+3,YLDs (Years Lived with Disability),194,Kingdom of Lesotho,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,42.20098564241,83.40933420874,18.07827134946
+3,YLDs (Years Lived with Disability),214,Federal Republic of Nigeria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.27145410793,20.30661592854,6.78362773329
+3,YLDs (Years Lived with Disability),195,Republic of Namibia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.83481933376,21.93773580646,4.379330267629999
+3,YLDs (Years Lived with Disability),195,Republic of Namibia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.722496625200002,30.19706500181,6.0946693327200006
+3,YLDs (Years Lived with Disability),195,Republic of Namibia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.703603739010003,37.74933585732,8.78881429238
+3,YLDs (Years Lived with Disability),215,Democratic Republic of Sao Tome and Principe,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.95522790537,62.062618041449994,16.21935205837
+3,YLDs (Years Lived with Disability),196,Republic of South Africa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.21511686698,25.42398927717,11.53920493629
+3,YLDs (Years Lived with Disability),196,Republic of South Africa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.79925074751,45.711002899010005,22.71061842685
+3,YLDs (Years Lived with Disability),196,Republic of South Africa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.74873647036,55.18036457804,27.803411480130002
+3,YLDs (Years Lived with Disability),216,Republic of Senegal,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.69168107558,39.81185528416,9.608151690969999
+3,YLDs (Years Lived with Disability),217,Republic of Sierra Leone,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.03527796961,40.365643746429996,9.63582181258
+3,YLDs (Years Lived with Disability),218,Togolese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.477431710239998,41.151768625900004,8.620685079680001
+3,YLDs (Years Lived with Disability),298,American Samoa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.59663539852,38.17352742386,10.17361112427
+3,YLDs (Years Lived with Disability),197,Kingdom of Eswatini,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.39574053014,35.75782971105,6.01758499131
+3,YLDs (Years Lived with Disability),197,Kingdom of Eswatini,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.6242803464,61.48887590467,10.76921643374
+3,YLDs (Years Lived with Disability),197,Kingdom of Eswatini,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.42398061428,78.15676004702,14.833995491689999
+3,YLDs (Years Lived with Disability),305,Bermuda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.26691042128,20.96084866911,8.08791390925
+3,YLDs (Years Lived with Disability),320,Cook Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.06821051274,17.47542057523,5.4345857049
+3,YLDs (Years Lived with Disability),198,Republic of Zimbabwe,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.031861278050002,38.3323830239,9.82455931147
+3,YLDs (Years Lived with Disability),198,Republic of Zimbabwe,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.54717343848,61.4266223161,15.380502317569999
+3,YLDs (Years Lived with Disability),198,Republic of Zimbabwe,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.97585150816,82.60884335479001,21.30934367295
+3,YLDs (Years Lived with Disability),349,Greenland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.92201349898,40.68639500601,9.933365551300001
+3,YLDs (Years Lived with Disability),200,Republic of Benin,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.03365132601,15.58354142715,3.6958275726500003
+3,YLDs (Years Lived with Disability),200,Republic of Benin,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.34509991605,23.244718038949998,6.05055098727
+3,YLDs (Years Lived with Disability),200,Republic of Benin,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.52717739072,27.573645055639997,6.679859779909999
+3,YLDs (Years Lived with Disability),351,Guam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.69081357636,33.53769566271,9.62202614375
+3,YLDs (Years Lived with Disability),201,Burkina Faso,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.78077067768,20.733234704530002,4.92851594943
+3,YLDs (Years Lived with Disability),201,Burkina Faso,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.78702568473,27.97977161738,7.37621033967
+3,YLDs (Years Lived with Disability),201,Burkina Faso,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.741759348989998,34.90774955346,7.56595155728
+3,YLDs (Years Lived with Disability),367,Principality of Monaco,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.07083609204,19.263310586539998,5.82333588304
+3,YLDs (Years Lived with Disability),203,Republic of Cabo Verde,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.88227079695,11.035333612839999,2.8089054553
+3,YLDs (Years Lived with Disability),203,Republic of Cabo Verde,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.6151434603,17.28681205607,4.42924715299
+3,YLDs (Years Lived with Disability),203,Republic of Cabo Verde,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.74998806009,24.51479137591,7.54327711496
+3,YLDs (Years Lived with Disability),202,Republic of Cameroon,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.13182407461,22.758238784139998,5.58972355462
+3,YLDs (Years Lived with Disability),202,Republic of Cameroon,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.423149541420003,31.22632529823,7.31879213205
+3,YLDs (Years Lived with Disability),202,Republic of Cameroon,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.63314535869,43.859276865969996,8.392699394860001
+3,YLDs (Years Lived with Disability),369,Republic of Nauru,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.25282321359,74.58505805285999,17.911838269420002
+3,YLDs (Years Lived with Disability),204,Republic of Chad,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.7014126376,18.64475905388,4.53795500005
+3,YLDs (Years Lived with Disability),204,Republic of Chad,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.75529366606,27.152424770179998,6.70995525634
+3,YLDs (Years Lived with Disability),204,Republic of Chad,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.89797318391,36.01569549137,7.593768775639999
+3,YLDs (Years Lived with Disability),374,Republic of Niue,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.40641281408,39.43425743139,8.002962321450001
+3,YLDs (Years Lived with Disability),205,Republic of Côte d'Ivoire,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.46848050863,9.1496983203,1.8501921538600001
+3,YLDs (Years Lived with Disability),205,Republic of Côte d'Ivoire,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.7631172721,13.990627783239999,3.29692048247
+3,YLDs (Years Lived with Disability),205,Republic of Côte d'Ivoire,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.82446502508,20.12109374407,5.51711476419
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,34.90772984814,61.85080081676,17.51726597975
+3,YLDs (Years Lived with Disability),206,Republic of the Gambia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.72879556814,21.3579222701,5.06011975972
+3,YLDs (Years Lived with Disability),206,Republic of the Gambia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.29606508502,31.16109521648,7.771147286390001
+3,YLDs (Years Lived with Disability),206,Republic of the Gambia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.87096765894,38.6435602608,8.62665402037
+3,YLDs (Years Lived with Disability),380,Republic of Palau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.25451559711,76.05900497364,23.00787898278
+3,YLDs (Years Lived with Disability),385,Puerto Rico,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.221698529800001,24.446015781790003,9.01293523203
+3,YLDs (Years Lived with Disability),207,Republic of Ghana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.125330464220001,21.96229405105,6.14721033868
+3,YLDs (Years Lived with Disability),207,Republic of Ghana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.36735336243,32.463855519069995,7.70273068118
+3,YLDs (Years Lived with Disability),207,Republic of Ghana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.81710153247,40.610275676709996,9.349609338199999
+3,YLDs (Years Lived with Disability),208,Republic of Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.39534731031,29.935256255189998,7.036823814700001
+3,YLDs (Years Lived with Disability),208,Republic of Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.500045645540002,46.97075443224,11.24154373659
+3,YLDs (Years Lived with Disability),208,Republic of Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.74596588392,60.95614060377,14.43425975601
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.77223684411,37.65604392702,12.03070329004
+3,YLDs (Years Lived with Disability),210,Republic of Liberia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.30792115703,20.43970728584,5.39970583265
+3,YLDs (Years Lived with Disability),210,Republic of Liberia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.98290177463,32.942665948300004,7.80241349609
+3,YLDs (Years Lived with Disability),210,Republic of Liberia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.8630668973,40.36956020494,8.70198320961
+3,YLDs (Years Lived with Disability),396,Republic of San Marino,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.17811289889,9.24913700252,2.42774596272
+3,YLDs (Years Lived with Disability),209,Republic of Guinea-Bissau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.41027363281,30.726167338289997,7.2608729503200005
+3,YLDs (Years Lived with Disability),209,Republic of Guinea-Bissau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.407122235350002,44.452396363220004,9.629290038510002
+3,YLDs (Years Lived with Disability),209,Republic of Guinea-Bissau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.70500819253,61.274183279039995,13.832048712249998
+3,YLDs (Years Lived with Disability),413,Tokelau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.580605861629998,47.78087039514,10.54165590715
+3,YLDs (Years Lived with Disability),211,Republic of Mali,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.62079819609,21.7024894219,5.58341928735
+3,YLDs (Years Lived with Disability),211,Republic of Mali,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.26313318438,32.0596795427,7.69476311394
+3,YLDs (Years Lived with Disability),211,Republic of Mali,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.3676661132,38.37241625833,8.71901112746
+3,YLDs (Years Lived with Disability),416,Tuvalu,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.61998453239,52.266952359630004,13.224012359089999
+3,YLDs (Years Lived with Disability),212,Islamic Republic of Mauritania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.70550279769,16.66071958145,4.01195665633
+3,YLDs (Years Lived with Disability),212,Islamic Republic of Mauritania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.45130774386,25.46211641573,6.2059919427
+3,YLDs (Years Lived with Disability),212,Islamic Republic of Mauritania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.4204685128,37.10013522672,8.26867904373
+3,YLDs (Years Lived with Disability),213,Republic of the Niger,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,8.53131749881,16.48832654569,3.8191112830500002
+3,YLDs (Years Lived with Disability),213,Republic of the Niger,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.25591477578,24.36170088732,5.71363240037
+3,YLDs (Years Lived with Disability),213,Republic of the Niger,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.55005066767,31.97180119398,6.5930979269
+3,YLDs (Years Lived with Disability),214,Federal Republic of Nigeria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.7942914734799995,12.32981631967,3.2903601355300003
+3,YLDs (Years Lived with Disability),214,Federal Republic of Nigeria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.45201487189,16.633017691339997,4.76883648896
+3,YLDs (Years Lived with Disability),214,Federal Republic of Nigeria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.57004512328,19.62433519602,6.3262098271100005
+3,YLDs (Years Lived with Disability),215,Democratic Republic of Sao Tome and Principe,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.16967330804,29.20931858022,5.850666127989999
+3,YLDs (Years Lived with Disability),215,Democratic Republic of Sao Tome and Principe,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.67366062668,44.009328008539995,10.63179221942
+3,YLDs (Years Lived with Disability),215,Democratic Republic of Sao Tome and Principe,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.958051478220003,56.20574398105,15.67588720776
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.498367960659998,45.67325285949,12.372736810980001
+3,YLDs (Years Lived with Disability),216,Republic of Senegal,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.16199124359,19.26347547809,5.03180407778
+3,YLDs (Years Lived with Disability),216,Republic of Senegal,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.627927043049999,28.627869668080002,7.8994253703599995
+3,YLDs (Years Lived with Disability),216,Republic of Senegal,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,20.4153619809,36.75353883743,8.50671139155
+3,YLDs (Years Lived with Disability),217,Republic of Sierra Leone,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.196585306500001,21.239964288470002,5.3265806078099995
+3,YLDs (Years Lived with Disability),217,Republic of Sierra Leone,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.18177797412,29.95899529201,7.707074769069999
+3,YLDs (Years Lived with Disability),217,Republic of Sierra Leone,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.17953913462,40.25476904398,9.43314782423
+3,YLDs (Years Lived with Disability),522,Republic of Sudan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.7810640811200003,6.795643263390001,1.6293245204
+3,YLDs (Years Lived with Disability),218,Togolese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.315894215310001,24.2229627899,5.6023415521199995
+3,YLDs (Years Lived with Disability),218,Togolese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,17.05076791433,31.693930201360004,8.27324991421
+3,YLDs (Years Lived with Disability),218,Togolese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.9314115008,39.335412261470005,9.68207097066
+3,YLDs (Years Lived with Disability),435,Republic of South Sudan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,33.30517409061,59.41731078844,14.74881943062
+3,YLDs (Years Lived with Disability),298,American Samoa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.4804347609,18.89534406817,5.31844808919
+3,YLDs (Years Lived with Disability),298,American Samoa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.83160147073,26.92049444374,7.323274519600001
+3,YLDs (Years Lived with Disability),298,American Samoa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.60667906513,43.33234765788,11.20990842545
+3,YLDs (Years Lived with Disability),305,Bermuda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,6.97713650437,12.00773501768,3.6497412842099997
+3,YLDs (Years Lived with Disability),305,Bermuda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.08963598052,18.331553757040002,6.17196458524
+3,YLDs (Years Lived with Disability),305,Bermuda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.24193668437,19.08296624343,7.0014070533899995
+3,YLDs (Years Lived with Disability),320,Cook Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,4.4199181022600005,8.28832330922,1.95831495787
+3,YLDs (Years Lived with Disability),320,Cook Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,7.13975592807,13.52019070732,3.3124100338800004
+3,YLDs (Years Lived with Disability),320,Cook Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.05839823535,19.29879765248,5.52458425739
+3,YLDs (Years Lived with Disability),349,Greenland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.79621755786,41.34897704412,10.41664222032
+3,YLDs (Years Lived with Disability),349,Greenland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.0106751362,50.37080472262,13.3952842275
+3,YLDs (Years Lived with Disability),349,Greenland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.58855459833,44.2150236437,12.195489146669999
+3,YLDs (Years Lived with Disability),351,Guam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.44984838525,17.879125385669997,5.91431200901
+3,YLDs (Years Lived with Disability),351,Guam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.20308336838,21.38263051685,7.51753706526
+3,YLDs (Years Lived with Disability),351,Guam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,16.71661387407,26.81686935405,9.43306763671
+3,YLDs (Years Lived with Disability),367,Principality of Monaco,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.93540695916,20.982362232139998,4.9926349555
+3,YLDs (Years Lived with Disability),367,Principality of Monaco,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.5771203959,28.456195325199996,6.03980740231
+3,YLDs (Years Lived with Disability),367,Principality of Monaco,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.260160496560001,24.498191121140003,6.1346131260800005
+3,YLDs (Years Lived with Disability),369,Republic of Nauru,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.63029085582,41.95347361329,9.0275931403
+3,YLDs (Years Lived with Disability),369,Republic of Nauru,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.38932904312,60.79886431212,13.01832338992
+3,YLDs (Years Lived with Disability),369,Republic of Nauru,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.81872768604,85.96234633243,19.19767482855
+3,YLDs (Years Lived with Disability),374,Republic of Niue,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.126450469729999,18.28003009918,4.683431076020001
+3,YLDs (Years Lived with Disability),374,Republic of Niue,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.796903686920002,30.22357715898,7.44987837008
+3,YLDs (Years Lived with Disability),374,Republic of Niue,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.38823023005,41.654335659139996,10.08436239991
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.984363440750002,26.759347054099997,6.8361130627
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,23.99454691801,44.54946124208,11.90725473278
+3,YLDs (Years Lived with Disability),376,Northern Mariana Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.37773167716,73.50542670448,19.18085754104
+3,YLDs (Years Lived with Disability),380,Republic of Palau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.4692824205,51.123679793390004,12.81304423575
+3,YLDs (Years Lived with Disability),380,Republic of Palau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,41.08599384103,70.87023726609,21.35235272992
+3,YLDs (Years Lived with Disability),380,Republic of Palau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,52.93768462622,93.21442589565,27.91728700934
+3,YLDs (Years Lived with Disability),385,Puerto Rico,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,10.35451212616,17.076553291849997,6.00388525637
+3,YLDs (Years Lived with Disability),385,Puerto Rico,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.50151173645,25.15814152918,8.30134975486
+3,YLDs (Years Lived with Disability),385,Puerto Rico,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.02098251311,24.53467661202,8.4311966492
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,9.0444825241,16.2080283925,4.38089124797
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.57790365037,27.266632820890003,7.944966253
+3,YLDs (Years Lived with Disability),393,Saint Kitts and Nevis,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,19.74984251352,31.38042496462,11.36374292317
+3,YLDs (Years Lived with Disability),396,Republic of San Marino,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.84582154245,7.35023363876,1.61006514842
+3,YLDs (Years Lived with Disability),396,Republic of San Marino,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.14704592519,9.27664862637,2.3002519249
+3,YLDs (Years Lived with Disability),396,Republic of San Marino,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,5.548989633060001,9.891952508560001,2.36787755783
+3,YLDs (Years Lived with Disability),413,Tokelau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.279979738580002,25.30255250214,6.12313527501
+3,YLDs (Years Lived with Disability),413,Tokelau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.1149189116,41.017498474439996,9.33433386128
+3,YLDs (Years Lived with Disability),413,Tokelau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.978682510360002,55.021852034540004,12.50199567347
+3,YLDs (Years Lived with Disability),416,Tuvalu,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,14.59922795111,27.112254314239998,6.59466819873
+3,YLDs (Years Lived with Disability),416,Tuvalu,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.84192298548,41.95771010248,10.31620748261
+3,YLDs (Years Lived with Disability),416,Tuvalu,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.91137879837,60.21527261214,14.363404782079998
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.87975146225,21.22616802125,5.57866241026
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,12.83154551471,22.43957356368,5.72901678761
+3,YLDs (Years Lived with Disability),422,United States Virgin Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,15.47867420771,27.649865187160003,7.375836961040001
+3,YLDs (Years Lived with Disability),435,Republic of South Sudan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.48565007971,26.28970089808,6.02338130891
+3,YLDs (Years Lived with Disability),435,Republic of South Sudan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,21.28049837764,41.156772346649994,8.87582107426
+3,YLDs (Years Lived with Disability),435,Republic of South Sudan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,28.88896094114,52.17159662929,12.602536853739998
+3,YLDs (Years Lived with Disability),522,Republic of Sudan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1.97812519783,4.23123512232,0.61754632161
+3,YLDs (Years Lived with Disability),522,Republic of Sudan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.33742821359,6.784581942330001,1.25729179555
+3,YLDs (Years Lived with Disability),522,Republic of Sudan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3.74153142306,7.18719894003,1.66762692073

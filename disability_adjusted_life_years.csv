@@ -1,0 +1,817 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,rei_id,rei_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,73.59631574589001,95.29967112813,55.98574102359
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,110.33469713333001,145.35281845362002,82.52482804885001
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,162.99777314695,206.7497811032,124.96085815424001
+2,DALYs (Disability-Adjusted Life Years),8,Taiwan (Province of China),2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,232.85893220384,292.85768193625,183.5922515318
+2,DALYs (Disability-Adjusted Life Years),10,Kingdom of Cambodia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,186.24254152454,321.49037356071,105.74329345833999
+2,DALYs (Disability-Adjusted Life Years),10,Kingdom of Cambodia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,353.16045055993,584.2565964211,207.48482624587
+2,DALYs (Disability-Adjusted Life Years),10,Kingdom of Cambodia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,608.84570653606,969.2221125535101,362.28905758922
+2,DALYs (Disability-Adjusted Life Years),10,Kingdom of Cambodia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,773.43042914536,1188.8159052150102,477.67609375238
+2,DALYs (Disability-Adjusted Life Years),11,Republic of Indonesia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,152.99682587949002,214.79047753141003,112.23339330113001
+2,DALYs (Disability-Adjusted Life Years),11,Republic of Indonesia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,284.85882941824997,384.73771734792,210.88528777284
+2,DALYs (Disability-Adjusted Life Years),11,Republic of Indonesia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,487.27334432079994,655.72762041157,355.80759297328
+2,DALYs (Disability-Adjusted Life Years),11,Republic of Indonesia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,620.41940447034,833.19301596134,431.94617860789
+2,DALYs (Disability-Adjusted Life Years),6,People's Republic of China,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,93.92436270704,125.04489555954001,67.01869136103
+2,DALYs (Disability-Adjusted Life Years),6,People's Republic of China,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,175.18283277146,232.85752839869,126.22693121254001
+2,DALYs (Disability-Adjusted Life Years),6,People's Republic of China,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,286.52429965464,369.68074323917,210.98712018025003
+2,DALYs (Disability-Adjusted Life Years),6,People's Republic of China,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,349.59880918931003,448.27635356583,251.88739172643002
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,191.20498549811,318.13806876815,103.47306790826
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,344.2084049368,582.47801646477,184.70674436676
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,558.29775323557,934.6344202277901,306.83846980165
+2,DALYs (Disability-Adjusted Life Years),7,Democratic People's Republic of Korea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,766.49227682831,1234.72455285468,439.3819479836
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,116.45774778727,176.70804304006,74.59176796594
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,258.0850816732,380.94338963947,161.87150697636
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,478.51930395718995,689.37817376105,294.26531845004996
+2,DALYs (Disability-Adjusted Life Years),13,Malaysia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,634.3514712739001,910.5817475210399,411.34703674318
+2,DALYs (Disability-Adjusted Life Years),14,Republic of Maldives,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,45.08200537977,66.6575784617,27.847184021580002
+2,DALYs (Disability-Adjusted Life Years),14,Republic of Maldives,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,82.89436826605001,128.53662763904998,50.717814743880005
+2,DALYs (Disability-Adjusted Life Years),14,Republic of Maldives,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,132.82509442344002,201.84994738748998,84.85960568611
+2,DALYs (Disability-Adjusted Life Years),14,Republic of Maldives,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,168.87804240411,242.74686520622,109.45678174409
+2,DALYs (Disability-Adjusted Life Years),15,Republic of the Union of Myanmar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,175.38949071743,287.10591682306,96.81749075634
+2,DALYs (Disability-Adjusted Life Years),15,Republic of the Union of Myanmar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,305.4952238384,512.3092358484801,167.18754167023
+2,DALYs (Disability-Adjusted Life Years),15,Republic of the Union of Myanmar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,483.56776216357,792.8448260762999,275.51261791045
+2,DALYs (Disability-Adjusted Life Years),15,Republic of the Union of Myanmar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,583.03772244275,910.3256507831999,358.74075687303997
+2,DALYs (Disability-Adjusted Life Years),16,Republic of the Philippines,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,172.00269438699,201.26347803537,145.57029771890998
+2,DALYs (Disability-Adjusted Life Years),16,Republic of the Philippines,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,315.39090448363,363.36760444059,267.80709036138
+2,DALYs (Disability-Adjusted Life Years),16,Republic of the Philippines,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,493.1804875189,565.13033245029,419.85404890636
+2,DALYs (Disability-Adjusted Life Years),16,Republic of the Philippines,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,616.20774714684,713.19897244606,520.21876303125
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,199.64199211057002,323.97509911932,107.8051478942
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,350.1927889963,563.87044334901,190.69522077697002
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,571.78898957558,914.00446092614,326.93162940734004
+2,DALYs (Disability-Adjusted Life Years),12,Lao People's Democratic Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,707.42166602167,1113.14387177305,447.97864988719
+2,DALYs (Disability-Adjusted Life Years),18,Kingdom of Thailand,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,249.58439316041998,369.6473164053,165.12395743748
+2,DALYs (Disability-Adjusted Life Years),18,Kingdom of Thailand,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,389.70966407258004,579.27265985341,249.85434760093
+2,DALYs (Disability-Adjusted Life Years),18,Kingdom of Thailand,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,531.55133974102,765.08088145903,352.15868355825
+2,DALYs (Disability-Adjusted Life Years),18,Kingdom of Thailand,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,587.3861462484,813.72797489214,407.82507348669003
+2,DALYs (Disability-Adjusted Life Years),17,Democratic Socialist Republic of Sri Lanka,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,48.87614712416,82.74776344366,26.194737232850002
+2,DALYs (Disability-Adjusted Life Years),17,Democratic Socialist Republic of Sri Lanka,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,95.40988344801,159.3942551415,53.44498890788
+2,DALYs (Disability-Adjusted Life Years),17,Democratic Socialist Republic of Sri Lanka,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,164.70119760867001,256.93258208056,97.38411580888
+2,DALYs (Disability-Adjusted Life Years),17,Democratic Socialist Republic of Sri Lanka,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,233.59574648909,363.98932661597996,144.32440073739002
+2,DALYs (Disability-Adjusted Life Years),19,Democratic Republic of Timor-Leste,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,128.2220736246,217.03825009847,68.5206688678
+2,DALYs (Disability-Adjusted Life Years),19,Democratic Republic of Timor-Leste,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,225.80982622462997,374.96597995256997,126.50807717364
+2,DALYs (Disability-Adjusted Life Years),19,Democratic Republic of Timor-Leste,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,415.87761307334,687.8898853245499,238.42192117829998
+2,DALYs (Disability-Adjusted Life Years),19,Democratic Republic of Timor-Leste,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,607.50185767859,961.6221701054301,365.71185135081004
+2,DALYs (Disability-Adjusted Life Years),20,Socialist Republic of Viet Nam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,97.11801596708,159.04425104764,57.956881014189996
+2,DALYs (Disability-Adjusted Life Years),20,Socialist Republic of Viet Nam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,201.09830421237,311.65657508287,113.67758041177
+2,DALYs (Disability-Adjusted Life Years),20,Socialist Republic of Viet Nam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,360.25911203991,571.57709023209,213.72545548501003
+2,DALYs (Disability-Adjusted Life Years),20,Socialist Republic of Viet Nam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,500.80259979891,760.00771220354,303.57864462308
+2,DALYs (Disability-Adjusted Life Years),22,Republic of Fiji,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,491.80002943235996,772.99520761745,275.51658423890996
+2,DALYs (Disability-Adjusted Life Years),22,Republic of Fiji,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,894.92496459775,1389.84355799004,515.45649456302
+2,DALYs (Disability-Adjusted Life Years),22,Republic of Fiji,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1488.3466852983402,2229.69405795777,888.3923335723
+2,DALYs (Disability-Adjusted Life Years),22,Republic of Fiji,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1610.76449478458,2451.1355879371004,963.3569154197901
+2,DALYs (Disability-Adjusted Life Years),24,Republic of the Marshall Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,537.4557521379,898.80145389338,250.64811918818
+2,DALYs (Disability-Adjusted Life Years),24,Republic of the Marshall Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,972.5143752936999,1629.9234915946902,485.12171684325
+2,DALYs (Disability-Adjusted Life Years),24,Republic of the Marshall Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1632.83609653993,2641.66915047079,859.1929548176299
+2,DALYs (Disability-Adjusted Life Years),24,Republic of the Marshall Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1684.07880951345,2702.25446262048,888.5904217064901
+2,DALYs (Disability-Adjusted Life Years),23,Republic of Kiribati,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,989.35313601284,1637.17539670684,580.88091742648
+2,DALYs (Disability-Adjusted Life Years),23,Republic of Kiribati,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1790.5962090118298,2933.17430046238,1027.01247685218
+2,DALYs (Disability-Adjusted Life Years),23,Republic of Kiribati,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3102.7733308925503,4992.07958548173,1895.2731802057601
+2,DALYs (Disability-Adjusted Life Years),23,Republic of Kiribati,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3327.0966471741403,5195.0028935706705,1998.5964615943399
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,409.29185681498,690.22200178839,221.30231761486002
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,770.1539600219501,1261.34810806377,410.43154188132
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1371.7763410325902,2179.14606430494,786.4648384161999
+2,DALYs (Disability-Adjusted Life Years),25,Federated States of Micronesia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1386.85738383241,2134.64359728863,817.8391897271999
+2,DALYs (Disability-Adjusted Life Years),29,Kingdom of Tonga,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,345.8437309842,575.86529923742,187.91099493402
+2,DALYs (Disability-Adjusted Life Years),29,Kingdom of Tonga,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,641.70815037686,1039.16836288093,355.50597371204003
+2,DALYs (Disability-Adjusted Life Years),29,Kingdom of Tonga,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1179.3216413875,1872.09872133455,698.65554042921
+2,DALYs (Disability-Adjusted Life Years),29,Kingdom of Tonga,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1228.3530502977799,1889.96768427719,752.4667423585499
+2,DALYs (Disability-Adjusted Life Years),26,Independent State of Papua New Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,343.63699749485,584.7317635282,192.03814644801
+2,DALYs (Disability-Adjusted Life Years),26,Independent State of Papua New Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,602.8275880768,1015.95279335258,348.68905581695003
+2,DALYs (Disability-Adjusted Life Years),26,Independent State of Papua New Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1042.07379023913,1887.37154728565,607.79569013166
+2,DALYs (Disability-Adjusted Life Years),26,Independent State of Papua New Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1066.55723515272,1909.8662918353298,626.61429695884
+2,DALYs (Disability-Adjusted Life Years),27,Independent State of Samoa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,373.29076764417,592.13828683852,206.80794467873
+2,DALYs (Disability-Adjusted Life Years),27,Independent State of Samoa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,618.0535282198,1029.3565983672001,333.60053577467
+2,DALYs (Disability-Adjusted Life Years),27,Independent State of Samoa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,988.7449004721599,1589.9364254888499,566.46250768619
+2,DALYs (Disability-Adjusted Life Years),27,Independent State of Samoa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1040.6326915745599,1679.45510852483,606.14129421503
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,444.34831488503,751.92744596645,234.42843972127997
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,858.20556999576,1465.1807677275801,474.88869911766
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1669.77212127981,2799.15862852705,920.9299874377099
+2,DALYs (Disability-Adjusted Life Years),28,Solomon Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1730.3068032077301,2704.18816668897,1009.08785907048
+2,DALYs (Disability-Adjusted Life Years),30,Republic of Vanuatu,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,325.85757511672,523.79930337258,186.56434620628002
+2,DALYs (Disability-Adjusted Life Years),30,Republic of Vanuatu,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,627.10362387838,989.9031320019,360.83585640894
+2,DALYs (Disability-Adjusted Life Years),30,Republic of Vanuatu,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1110.9920843202601,1738.7676486163398,656.81219045574
+2,DALYs (Disability-Adjusted Life Years),30,Republic of Vanuatu,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1149.00095939329,1719.0525859791298,713.45614150091
+2,DALYs (Disability-Adjusted Life Years),34,Republic of Azerbaijan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,94.00307345284,124.44427019847001,68.87971060938
+2,DALYs (Disability-Adjusted Life Years),34,Republic of Azerbaijan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,163.62115523895,214.49291296634001,124.49416551187001
+2,DALYs (Disability-Adjusted Life Years),34,Republic of Azerbaijan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,266.67970186278,331.54913824687003,210.0546017972
+2,DALYs (Disability-Adjusted Life Years),34,Republic of Azerbaijan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,325.83657942483,415.95213075283,247.5923275274
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,134.44878609601,155.32837576492,115.67588740235999
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,280.60395244166,312.05446758813,250.15192476036
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,473.22224078592,525.3805351441699,424.56893184204
+2,DALYs (Disability-Adjusted Life Years),35,Georgia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,610.87507532752,682.84919178999,540.2815576594099
+2,DALYs (Disability-Adjusted Life Years),33,Republic of Armenia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,89.67784841868,97.94945286919999,81.50816714961
+2,DALYs (Disability-Adjusted Life Years),33,Republic of Armenia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,147.4490724295,159.76610837369,136.38780122994
+2,DALYs (Disability-Adjusted Life Years),33,Republic of Armenia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,222.53189786753,244.99502946172998,203.87904871529
+2,DALYs (Disability-Adjusted Life Years),33,Republic of Armenia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,395.00806476562,431.31742770963,363.20325898631
+2,DALYs (Disability-Adjusted Life Years),36,Republic of Kazakhstan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,172.35759913121,195.36224170385,150.00415813152
+2,DALYs (Disability-Adjusted Life Years),36,Republic of Kazakhstan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,386.65475392117,427.62509559806995,348.15307531901004
+2,DALYs (Disability-Adjusted Life Years),36,Republic of Kazakhstan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,577.61849943224,638.03482001763,518.03162475965
+2,DALYs (Disability-Adjusted Life Years),36,Republic of Kazakhstan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,693.88687777016,807.4290818918599,594.76562133574
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,213.12472179969998,277.82009906776,160.4208461347
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,312.98199548096,404.54526208574,239.82069730424
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,550.06685881146,713.46659698548,420.25549748975004
+2,DALYs (Disability-Adjusted Life Years),40,Turkmenistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,718.5843611958201,934.0884013237301,538.91984607334
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyz Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,178.20148373137002,232.15475288816,132.56577363915
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyz Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,338.19729881561,443.11125515422,249.07168275457
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyz Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,561.1186005723499,711.64648575133,432.30355295364
+2,DALYs (Disability-Adjusted Life Years),37,Kyrgyz Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,689.4936222986701,868.18983496732,532.92722561783
+2,DALYs (Disability-Adjusted Life Years),41,Republic of Uzbekistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.40187287884,167.40135469305,98.53123201603
+2,DALYs (Disability-Adjusted Life Years),41,Republic of Uzbekistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,237.44410681641,312.13710146812997,177.37629045716
+2,DALYs (Disability-Adjusted Life Years),41,Republic of Uzbekistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,495.25240722511,631.54720584958,380.55446992686
+2,DALYs (Disability-Adjusted Life Years),41,Republic of Uzbekistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,685.40911157998,849.3795232941401,529.9527931446701
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,185.21744932952,273.32334446083996,118.99960804853
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,416.39652126909,619.1967323431701,269.29855523506
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,656.08383762186,932.2067816676299,449.52475362677
+2,DALYs (Disability-Adjusted Life Years),38,Mongolia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,865.0447532201099,1193.14804386844,608.944140343
+2,DALYs (Disability-Adjusted Life Years),39,Republic of Tajikistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,88.96554998082,145.98341547057998,51.587281570209996
+2,DALYs (Disability-Adjusted Life Years),39,Republic of Tajikistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,143.56483068635,236.66719713088003,83.48565694557
+2,DALYs (Disability-Adjusted Life Years),39,Republic of Tajikistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,215.13155329626,332.0346224705,131.70542154797002
+2,DALYs (Disability-Adjusted Life Years),39,Republic of Tajikistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,257.52116876063,383.90090016109997,162.13706353525998
+2,DALYs (Disability-Adjusted Life Years),45,Republic of Bulgaria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,228.55551132168,279.76516860449,178.58799382774
+2,DALYs (Disability-Adjusted Life Years),45,Republic of Bulgaria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,420.35701151149,563.80298735264,312.80337166953
+2,DALYs (Disability-Adjusted Life Years),45,Republic of Bulgaria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,604.9608363689999,729.07939247174,481.87421550354003
+2,DALYs (Disability-Adjusted Life Years),45,Republic of Bulgaria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,730.4855464762101,883.50712937311,594.17818378914
+2,DALYs (Disability-Adjusted Life Years),46,Republic of Croatia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,63.06839732403,81.16544466020001,46.89850848615
+2,DALYs (Disability-Adjusted Life Years),46,Republic of Croatia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,133.04831412254,171.57730780841,103.0763054008
+2,DALYs (Disability-Adjusted Life Years),46,Republic of Croatia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,208.14596096353998,258.18537434913003,159.69323794392
+2,DALYs (Disability-Adjusted Life Years),46,Republic of Croatia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,250.34945801557,313.05545170109997,194.04568351802
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,83.79197530095,110.33071055946002,62.92819246858
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.50336630193001,169.01626540231,96.60430976205
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,190.24121333937,234.15587129412,154.06274554716
+2,DALYs (Disability-Adjusted Life Years),47,Czech Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.46447292626,292.281550248,181.63598130399998
+2,DALYs (Disability-Adjusted Life Years),43,Republic of Albania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,89.40136195656001,140.35830272175002,55.27185059052999
+2,DALYs (Disability-Adjusted Life Years),43,Republic of Albania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,134.1219861623,216.28840212061002,78.90649064522
+2,DALYs (Disability-Adjusted Life Years),43,Republic of Albania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,195.74305376700002,297.75319014435,121.17432797993
+2,DALYs (Disability-Adjusted Life Years),43,Republic of Albania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.43335683776,344.75220506704,150.20036921486
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,124.81058626884001,167.14010436248,89.04808624213
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,260.56582399033005,339.90227378386,192.89845451566
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,301.98198934228003,373.19277131667,228.13234548665
+2,DALYs (Disability-Adjusted Life Years),44,Bosnia and Herzegovina,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,507.60563287336,671.1413838985,371.52055922266
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,126.18177008481,171.73901139412,88.11544409835
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,193.87223625045002,256.75525442891,139.26792844597
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,306.06515989125995,412.85747200915,227.13532107643
+2,DALYs (Disability-Adjusted Life Years),50,Montenegro,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,442.03963419177,602.9802091169499,308.71676567299
+2,DALYs (Disability-Adjusted Life Years),51,Republic of Poland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,80.21724068380999,85.1716192714,75.61796669947
+2,DALYs (Disability-Adjusted Life Years),51,Republic of Poland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,143.24145775534998,151.4022663658,135.38984395017002
+2,DALYs (Disability-Adjusted Life Years),51,Republic of Poland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,225.91002802505,238.38291054742,214.54578668846
+2,DALYs (Disability-Adjusted Life Years),51,Republic of Poland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,326.2663712661,347.72868991296,307.76953705618996
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,117.70526530624,152.32331537389,91.15389591619
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,215.61135551255998,280.09827815167,164.52456417764
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,277.33831046649,355.4650811252,217.90862056585
+2,DALYs (Disability-Adjusted Life Years),48,Hungary,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,375.59634880784,472.82734560382,298.04936064476
+2,DALYs (Disability-Adjusted Life Years),52,Romania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,219.20563733324002,270.38005067015,173.11059042592
+2,DALYs (Disability-Adjusted Life Years),52,Romania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,426.64186748669005,534.79819037973,332.00360939667996
+2,DALYs (Disability-Adjusted Life Years),52,Romania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,643.31077698573,794.2310138516401,500.86644096358
+2,DALYs (Disability-Adjusted Life Years),52,Romania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,873.86532158421,1068.36262778079,701.7547874724401
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,114.25218340986,155.7513998259,81.2338424408
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,212.54748049979,286.51568331275,156.83736478975
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,322.68615284091,413.71443244484004,242.44076049473
+2,DALYs (Disability-Adjusted Life Years),49,North Macedonia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,404.80531182834,536.5395253481499,300.10898399806
+2,DALYs (Disability-Adjusted Life Years),53,Republic of Serbia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,160.80360743391998,227.98549062294998,106.27766558588
+2,DALYs (Disability-Adjusted Life Years),53,Republic of Serbia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,295.96345294795,423.4568020446,197.72654895264
+2,DALYs (Disability-Adjusted Life Years),53,Republic of Serbia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,458.29934576193,628.47097191152,315.86055799756997
+2,DALYs (Disability-Adjusted Life Years),53,Republic of Serbia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,667.3379495571301,892.63740651973,458.85446458672
+2,DALYs (Disability-Adjusted Life Years),57,Republic of Belarus,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,134.40166247741,173.14517028128,100.63250301340001
+2,DALYs (Disability-Adjusted Life Years),57,Republic of Belarus,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,276.72245350121,363.43414485874,205.70183694669
+2,DALYs (Disability-Adjusted Life Years),57,Republic of Belarus,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,385.40158773685,490.1728753583,293.10760111906
+2,DALYs (Disability-Adjusted Life Years),57,Republic of Belarus,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,488.4209838799,617.56047554536,380.74147623201003
+2,DALYs (Disability-Adjusted Life Years),54,Slovak Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,128.91459667385,192.32516564134,84.60283883794
+2,DALYs (Disability-Adjusted Life Years),54,Slovak Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,227.65163175296,328.98750863018,147.72742910268002
+2,DALYs (Disability-Adjusted Life Years),54,Slovak Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,354.16761467914,496.94390852355,236.88010493582001
+2,DALYs (Disability-Adjusted Life Years),54,Slovak Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,413.21146040469,568.63279575076,279.98235898899
+2,DALYs (Disability-Adjusted Life Years),58,Republic of Estonia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,123.61152526812,159.88886692849,91.48600073566
+2,DALYs (Disability-Adjusted Life Years),58,Republic of Estonia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,150.44427738717,196.13867321249,111.67997834868001
+2,DALYs (Disability-Adjusted Life Years),58,Republic of Estonia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,271.58203102116,347.40592545066,204.38558682694003
+2,DALYs (Disability-Adjusted Life Years),58,Republic of Estonia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,344.91370863955,434.77516954269,270.51424665410997
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,151.20889590173,181.51235215601,124.10144172739
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,335.64552819326,392.84683190427,282.98751495787997
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,551.48879303916,645.44138570812,462.44377503943997
+2,DALYs (Disability-Adjusted Life Years),61,Republic of Moldova,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,568.49288718504,676.49545477667,476.09010041843004
+2,DALYs (Disability-Adjusted Life Years),55,Republic of Slovenia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,66.47010126631,90.71218572719,47.23201329366
+2,DALYs (Disability-Adjusted Life Years),55,Republic of Slovenia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,137.53085742032,185.00739193097002,101.52899649615
+2,DALYs (Disability-Adjusted Life Years),55,Republic of Slovenia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,130.28948737361,166.96641877009,97.82178587258001
+2,DALYs (Disability-Adjusted Life Years),55,Republic of Slovenia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,201.67673908219,263.03310822995,155.54732979888
+2,DALYs (Disability-Adjusted Life Years),59,Republic of Latvia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,97.44575423961,129.08275632248998,72.61996743204
+2,DALYs (Disability-Adjusted Life Years),59,Republic of Latvia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,162.04639863406,211.24893219784997,121.14106167778
+2,DALYs (Disability-Adjusted Life Years),59,Republic of Latvia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,295.978260446,382.26566734583,222.83390382688003
+2,DALYs (Disability-Adjusted Life Years),59,Republic of Latvia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,330.14494894016997,423.16326651073996,253.03536811738002
+2,DALYs (Disability-Adjusted Life Years),60,Republic of Lithuania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,129.49167111866,168.77050204443998,95.58775218710001
+2,DALYs (Disability-Adjusted Life Years),60,Republic of Lithuania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,214.13902321690998,283.84588259488004,159.14743301734
+2,DALYs (Disability-Adjusted Life Years),60,Republic of Lithuania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,332.08154321518,420.91956613552003,257.3175505488
+2,DALYs (Disability-Adjusted Life Years),60,Republic of Lithuania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,395.72468590200003,493.58702687695,312.03342466702003
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,269.92968704624,282.39654052712,258.41493675437
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,489.48827492873005,514.1797972806299,465.88476555934
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,613.89688540136,637.8868323709501,589.88187629225
+2,DALYs (Disability-Adjusted Life Years),62,Russian Federation,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,608.77801378143,638.81013983822,585.0179952354
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,156.26520207567,228.98059906942999,102.89097297816
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,475.78604573211004,689.8070063553399,315.16293803357
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,504.46835157318,738.3298371766,336.76561397726
+2,DALYs (Disability-Adjusted Life Years),66,Brunei Darussalam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,733.00433974736,1033.8936515227101,498.68224252523
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,92.07143746765999,137.65607313428,58.476072467920005
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,152.03855146249,228.60813699479002,96.23522188768
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,214.01297145969,311.27834443782,141.16911227609
+2,DALYs (Disability-Adjusted Life Years),63,Ukraine,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,263.95357140662,367.89977492616003,177.97568885459
+2,DALYs (Disability-Adjusted Life Years),67,Japan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,90.7343978691,96.3968341423,85.68732847665
+2,DALYs (Disability-Adjusted Life Years),67,Japan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,152.39483178838,160.66616068397,144.46584224027998
+2,DALYs (Disability-Adjusted Life Years),67,Japan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,215.03751497719,225.67024518942003,205.2679599642
+2,DALYs (Disability-Adjusted Life Years),67,Japan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,274.86703074564,289.47571228815,263.16260058201
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,66.48329601965,99.60517290134,44.682741680869995
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,111.44772616803,156.85722012376,74.77809544832999
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,142.24583874474,201.70132941441,98.66237960452001
+2,DALYs (Disability-Adjusted Life Years),68,Republic of Korea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,169.57016154145998,230.97450736169,121.15760799417
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,77.75911546523,94.1832301204,62.3506821659
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,94.66346858369,116.45556644578001,75.22336504489
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.3547572717,160.47165009693,104.51497329949
+2,DALYs (Disability-Adjusted Life Years),72,New Zealand,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,148.10938523664,176.23772760821,122.90886638738
+2,DALYs (Disability-Adjusted Life Years),69,Republic of Singapore,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,50.23569233144,65.73768661198,37.24968334128
+2,DALYs (Disability-Adjusted Life Years),69,Republic of Singapore,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,61.76970620247,80.455578022,44.013606498630004
+2,DALYs (Disability-Adjusted Life Years),69,Republic of Singapore,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,84.17131902426,108.96057522965,64.97916589313
+2,DALYs (Disability-Adjusted Life Years),69,Republic of Singapore,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,169.85667146782,214.4375033326,131.59105276965
+2,DALYs (Disability-Adjusted Life Years),71,Australia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,68.12935365727,89.1764826866,52.082195579760004
+2,DALYs (Disability-Adjusted Life Years),71,Australia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,105.11335587444,135.87888913332,76.98979902535001
+2,DALYs (Disability-Adjusted Life Years),71,Australia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,154.09620194796,194.63950553594,119.40122535491001
+2,DALYs (Disability-Adjusted Life Years),71,Australia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,143.66760121141002,180.46930053762998,111.65918634507
+2,DALYs (Disability-Adjusted Life Years),74,Principality of Andorra,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,42.23255571917,68.58199401562,23.03150335744
+2,DALYs (Disability-Adjusted Life Years),74,Principality of Andorra,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,68.58745543270001,112.71915322132999,39.49068630849
+2,DALYs (Disability-Adjusted Life Years),74,Principality of Andorra,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,93.37570885054,149.74934941337,55.10395332262
+2,DALYs (Disability-Adjusted Life Years),74,Principality of Andorra,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,109.6640948499,170.0849626315,65.84712233269
+2,DALYs (Disability-Adjusted Life Years),77,Republic of Cyprus,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,55.05856442257001,87.94429791574001,34.18781463842
+2,DALYs (Disability-Adjusted Life Years),77,Republic of Cyprus,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,91.29974741764,138.70205913886,57.18541257735
+2,DALYs (Disability-Adjusted Life Years),77,Republic of Cyprus,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,110.73586331084,157.85356290984998,71.178036455
+2,DALYs (Disability-Adjusted Life Years),77,Republic of Cyprus,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,105.80328537109,151.7676406927,70.94484875018
+2,DALYs (Disability-Adjusted Life Years),78,Kingdom of Denmark,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,73.32138931622,95.347308826,54.94395430913
+2,DALYs (Disability-Adjusted Life Years),78,Kingdom of Denmark,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,115.45754806382999,152.05946505093,86.44803391525
+2,DALYs (Disability-Adjusted Life Years),78,Kingdom of Denmark,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,150.50939943307,189.18844327847998,116.42068317977001
+2,DALYs (Disability-Adjusted Life Years),78,Kingdom of Denmark,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,164.16631765546,205.23892731337,127.71964107141001
+2,DALYs (Disability-Adjusted Life Years),75,Republic of Austria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,53.38676076563,69.36990984197999,39.669449536420004
+2,DALYs (Disability-Adjusted Life Years),75,Republic of Austria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,83.07201869530999,109.20835150115,61.97182803148
+2,DALYs (Disability-Adjusted Life Years),75,Republic of Austria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,128.54496859736,160.974124879,100.45575370447
+2,DALYs (Disability-Adjusted Life Years),75,Republic of Austria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,157.74968558631,198.38322355869,123.85069992767
+2,DALYs (Disability-Adjusted Life Years),79,Republic of Finland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.76060510989,53.452180091,29.193369905269996
+2,DALYs (Disability-Adjusted Life Years),79,Republic of Finland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,66.60245720927,89.3353912562,47.775547129420005
+2,DALYs (Disability-Adjusted Life Years),79,Republic of Finland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,93.0090668097,119.61685786541,70.17101790625999
+2,DALYs (Disability-Adjusted Life Years),79,Republic of Finland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,114.91721581803,147.75636403315,88.26957802163
+2,DALYs (Disability-Adjusted Life Years),76,Kingdom of Belgium,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,57.015947317110005,74.72233972736,42.358694490510004
+2,DALYs (Disability-Adjusted Life Years),76,Kingdom of Belgium,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,88.23613436976001,115.27629478439,63.92515486354
+2,DALYs (Disability-Adjusted Life Years),76,Kingdom of Belgium,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.21747923896,168.17457374038,101.12198817142
+2,DALYs (Disability-Adjusted Life Years),76,Kingdom of Belgium,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,174.64589114882,216.99427531061,137.42520823497
+2,DALYs (Disability-Adjusted Life Years),82,Hellenic Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,60.35946929018,71.22415522894,50.74341511506
+2,DALYs (Disability-Adjusted Life Years),82,Hellenic Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,82.71918722111,97.15799599503,70.08769866781999
+2,DALYs (Disability-Adjusted Life Years),82,Hellenic Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,135.46350613823,157.02801750465,115.87417585415001
+2,DALYs (Disability-Adjusted Life Years),82,Hellenic Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,183.94107057008,216.91530705935,156.33291394457999
+2,DALYs (Disability-Adjusted Life Years),83,Republic of Iceland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,50.27153828131001,67.0578755121,37.09379006745
+2,DALYs (Disability-Adjusted Life Years),83,Republic of Iceland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,88.08981759406,115.06042548815,62.749438800069996
+2,DALYs (Disability-Adjusted Life Years),83,Republic of Iceland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,75.48657491091001,98.58188556143999,56.970729891359994
+2,DALYs (Disability-Adjusted Life Years),83,Republic of Iceland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,98.25083347901,126.74692275473001,74.18961716222
+2,DALYs (Disability-Adjusted Life Years),80,French Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,59.87727575092,77.9541354826,46.30280532976
+2,DALYs (Disability-Adjusted Life Years),80,French Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,99.17397173830999,131.18455942958,73.50125744361
+2,DALYs (Disability-Adjusted Life Years),80,French Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,139.27429470195,176.48810903545998,105.95525600737999
+2,DALYs (Disability-Adjusted Life Years),80,French Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,196.04453467899,248.99915104664998,150.47313292694
+2,DALYs (Disability-Adjusted Life Years),81,Federal Republic of Germany,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,81.41577062072,102.33679507823999,63.72306282814
+2,DALYs (Disability-Adjusted Life Years),81,Federal Republic of Germany,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,136.34180988617,175.63966192816,104.54485303245
+2,DALYs (Disability-Adjusted Life Years),81,Federal Republic of Germany,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,164.87058136572,206.60556006745,126.8606100512
+2,DALYs (Disability-Adjusted Life Years),81,Federal Republic of Germany,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,199.52729513020998,249.28846802595,158.35838339658
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,64.05555881326,86.93904287417,47.098840042
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,124.69478783653,165.39679742911,91.02070408056
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,175.42074119521,228.13243094930002,136.45577285476
+2,DALYs (Disability-Adjusted Life Years),84,Ireland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,146.712326978,186.54128898491,112.35444327862001
+2,DALYs (Disability-Adjusted Life Years),85,State of Israel,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,41.15033593257,54.40635816663,30.605160438549998
+2,DALYs (Disability-Adjusted Life Years),85,State of Israel,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,78.81789878349,104.26771566497,57.44133097831
+2,DALYs (Disability-Adjusted Life Years),85,State of Israel,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,95.58510898352999,122.58457643783,72.38977840354
+2,DALYs (Disability-Adjusted Life Years),85,State of Israel,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,105.78625167831999,133.64671402474002,81.93762282377
+2,DALYs (Disability-Adjusted Life Years),88,Republic of Malta,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,60.30384046171999,81.74759852998,43.64107304841
+2,DALYs (Disability-Adjusted Life Years),88,Republic of Malta,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,80.49989725151,109.51100365027,57.816264604770005
+2,DALYs (Disability-Adjusted Life Years),88,Republic of Malta,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,115.39001624251001,156.02126508381,86.4275960371
+2,DALYs (Disability-Adjusted Life Years),88,Republic of Malta,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,112.8387561676,146.76640538198998,85.13965918699999
+2,DALYs (Disability-Adjusted Life Years),86,Republic of Italy,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,46.78954839585,52.577648490799994,42.185128839490005
+2,DALYs (Disability-Adjusted Life Years),86,Republic of Italy,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,90.40107737097,100.85663493503,82.36755230329
+2,DALYs (Disability-Adjusted Life Years),86,Republic of Italy,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,125.17983458001001,137.9176481309,113.32029576257
+2,DALYs (Disability-Adjusted Life Years),86,Republic of Italy,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,152.88211322891,164.02593657571,142.10678766525
+2,DALYs (Disability-Adjusted Life Years),89,Kingdom of the Netherlands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,61.55454311322001,80.63074153148,46.61223296149
+2,DALYs (Disability-Adjusted Life Years),89,Kingdom of the Netherlands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,78.12215956528,102.09741961558,58.49103433396
+2,DALYs (Disability-Adjusted Life Years),89,Kingdom of the Netherlands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,108.55788522498,138.40497076676,83.02490334558
+2,DALYs (Disability-Adjusted Life Years),89,Kingdom of the Netherlands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,130.3394187605,163.05751049983,101.97409108356999
+2,DALYs (Disability-Adjusted Life Years),87,Grand Duchy of Luxembourg,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.92982571432,38.63758411163,25.90849360111
+2,DALYs (Disability-Adjusted Life Years),87,Grand Duchy of Luxembourg,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,47.9838616144,56.15249980259,40.558442470900005
+2,DALYs (Disability-Adjusted Life Years),87,Grand Duchy of Luxembourg,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,60.60199478682,70.69545487407,51.331802180829996
+2,DALYs (Disability-Adjusted Life Years),87,Grand Duchy of Luxembourg,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,110.59159945791,135.64127355297,91.34552258036
+2,DALYs (Disability-Adjusted Life Years),90,Kingdom of Norway,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,70.63670073729,79.40790165233,63.53519838538
+2,DALYs (Disability-Adjusted Life Years),90,Kingdom of Norway,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,104.41643077714998,118.05736125796,91.72769801691
+2,DALYs (Disability-Adjusted Life Years),90,Kingdom of Norway,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,145.80356550634,160.73562952799,131.8453179919
+2,DALYs (Disability-Adjusted Life Years),90,Kingdom of Norway,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,181.79424077987002,204.11420498189,163.81939021802998
+2,DALYs (Disability-Adjusted Life Years),93,Kingdom of Sweden,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,66.96532827994,82.82855548578999,53.445559299630006
+2,DALYs (Disability-Adjusted Life Years),93,Kingdom of Sweden,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,109.25685987542,135.13934051139,86.63381574396
+2,DALYs (Disability-Adjusted Life Years),93,Kingdom of Sweden,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.41623197259,158.56610469775,106.56554542707
+2,DALYs (Disability-Adjusted Life Years),93,Kingdom of Sweden,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,127.66935520412001,153.77591166129,106.21821285988001
+2,DALYs (Disability-Adjusted Life Years),91,Portuguese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,124.93560398763,162.22633920386,93.23659930897999
+2,DALYs (Disability-Adjusted Life Years),91,Portuguese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,149.95843063283,195.18951423361,115.20692466394
+2,DALYs (Disability-Adjusted Life Years),91,Portuguese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,184.3000871963,232.65165560250003,142.68399234887002
+2,DALYs (Disability-Adjusted Life Years),91,Portuguese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.62901491649998,292.00421686181,183.67343379135
+2,DALYs (Disability-Adjusted Life Years),94,Swiss Confederation,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,44.61341644242,58.176249369560004,32.616175400710006
+2,DALYs (Disability-Adjusted Life Years),94,Swiss Confederation,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,55.92181053735,75.8718170658,40.31344734306
+2,DALYs (Disability-Adjusted Life Years),94,Swiss Confederation,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,82.36656568757,106.92794578341001,62.45615913043
+2,DALYs (Disability-Adjusted Life Years),94,Swiss Confederation,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,119.63775798098,152.33615860277,93.86974373922
+2,DALYs (Disability-Adjusted Life Years),92,Kingdom of Spain,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,54.66029946356,70.90835501075,40.70429651112
+2,DALYs (Disability-Adjusted Life Years),92,Kingdom of Spain,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,75.2859702694,97.82442512219,55.624364958890006
+2,DALYs (Disability-Adjusted Life Years),92,Kingdom of Spain,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,121.23844849823,157.56833123302,94.13266733613
+2,DALYs (Disability-Adjusted Life Years),92,Kingdom of Spain,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,154.51301152079,191.97503833801,120.80199221771998
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom of Great Britain and Northern Ireland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,102.3487068807,109.80736208059,96.32379234643
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom of Great Britain and Northern Ireland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,147.78852314088002,157.77065885225,138.42455138538
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom of Great Britain and Northern Ireland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,167.5627221314,175.73079411708,159.96440701508
+2,DALYs (Disability-Adjusted Life Years),95,United Kingdom of Great Britain and Northern Ireland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,170.47449246245,177.44745759011002,164.05605602992998
+2,DALYs (Disability-Adjusted Life Years),98,Republic of Chile,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.93167593945,293.40324207442,183.85414156232002
+2,DALYs (Disability-Adjusted Life Years),98,Republic of Chile,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,388.60798600512004,490.26087757772007,298.36158071975
+2,DALYs (Disability-Adjusted Life Years),98,Republic of Chile,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,433.69372677019,542.0262432565399,337.84871916703
+2,DALYs (Disability-Adjusted Life Years),98,Republic of Chile,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,490.53104671138004,601.03707131702,389.49156040624
+2,DALYs (Disability-Adjusted Life Years),99,Eastern Republic of Uruguay,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,329.03473239818,418.12721642265,252.01354876344
+2,DALYs (Disability-Adjusted Life Years),99,Eastern Republic of Uruguay,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,558.123798648,706.1343482763,430.74837939918
+2,DALYs (Disability-Adjusted Life Years),99,Eastern Republic of Uruguay,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,641.6032028534601,807.0999054430599,499.70472254569
+2,DALYs (Disability-Adjusted Life Years),99,Eastern Republic of Uruguay,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,635.90560793263,782.54558039284,496.34308057078005
+2,DALYs (Disability-Adjusted Life Years),97,Argentine Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,450.75394883555,551.7874412042601,355.79972604992
+2,DALYs (Disability-Adjusted Life Years),97,Argentine Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,670.8734758155999,838.36652448217,528.31835522592
+2,DALYs (Disability-Adjusted Life Years),97,Argentine Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,821.35602811005,1012.349825888,646.36702988898
+2,DALYs (Disability-Adjusted Life Years),97,Argentine Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,840.4072345055399,1031.58196266661,678.98757745564
+2,DALYs (Disability-Adjusted Life Years),101,Canada,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,92.71007828443,118.89794707861999,69.42483939414
+2,DALYs (Disability-Adjusted Life Years),101,Canada,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,138.65522340612,183.30652979184,102.16763815697001
+2,DALYs (Disability-Adjusted Life Years),101,Canada,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,173.07365346764,217.51109604353,131.52933238784
+2,DALYs (Disability-Adjusted Life Years),101,Canada,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,175.61048471148,219.52533707953,137.43894970886
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,102.99357936505,109.57351973911,97.13627303274001
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,155.75308322496,164.67692466791001,148.63155430834001
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,193.8480030346,202.22284468504,185.80926455937
+2,DALYs (Disability-Adjusted Life Years),102,United States of America,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,222.73395676459,232.95623644312,213.07839633800998
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,188.46168055257,229.42918838577998,156.72962346002
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,376.1946276581,447.44245116467,316.29236746435004
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,538.0456100047201,647.5033547368399,448.44004551365
+2,DALYs (Disability-Adjusted Life Years),105,Antigua and Barbuda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,705.47669460527,862.6749752649499,575.54566929786
+2,DALYs (Disability-Adjusted Life Years),109,Republic of Cuba,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,215.49553804091002,277.88517892997,162.90929151558
+2,DALYs (Disability-Adjusted Life Years),109,Republic of Cuba,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,360.45066193383,458.04093900176,276.55983840351
+2,DALYs (Disability-Adjusted Life Years),109,Republic of Cuba,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,515.52538747521,644.90670773998,396.65500851901
+2,DALYs (Disability-Adjusted Life Years),109,Republic of Cuba,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,550.44720729852,683.40489469809,438.18855228042
+2,DALYs (Disability-Adjusted Life Years),106,Commonwealth of the Bahamas,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,392.91549520376,525.04366019186,286.38636082892003
+2,DALYs (Disability-Adjusted Life Years),106,Commonwealth of the Bahamas,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,605.09884798942,779.79358666572,449.36926805027997
+2,DALYs (Disability-Adjusted Life Years),106,Commonwealth of the Bahamas,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,786.20228458525,1008.59138607052,595.8405641399299
+2,DALYs (Disability-Adjusted Life Years),106,Commonwealth of the Bahamas,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,950.25170365544,1229.63104751405,714.35010136535
+2,DALYs (Disability-Adjusted Life Years),110,Commonwealth of Dominica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,364.50060055636,544.43053038582,225.53733401316
+2,DALYs (Disability-Adjusted Life Years),110,Commonwealth of Dominica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,658.95635822133,965.94238239711,416.20249696096005
+2,DALYs (Disability-Adjusted Life Years),110,Commonwealth of Dominica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,883.8746191379299,1306.9586852622401,590.41153633519
+2,DALYs (Disability-Adjusted Life Years),110,Commonwealth of Dominica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1063.85419981312,1533.22703000584,701.09324107286
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,285.26502791026,371.27474375256,214.01606404631
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,569.11177771037,736.98039005328,436.19298727550995
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,766.28601077183,993.71931221962,593.4103409294199
+2,DALYs (Disability-Adjusted Life Years),107,Barbados,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,880.9225331342801,1138.30909150918,668.2111451706
+2,DALYs (Disability-Adjusted Life Years),108,Belize,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,527.10231478151,637.26267107683,433.01741317732996
+2,DALYs (Disability-Adjusted Life Years),108,Belize,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1174.5642086574999,1399.15858900935,925.43075813682
+2,DALYs (Disability-Adjusted Life Years),108,Belize,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1240.36735388795,1453.45707773812,1029.67707525177
+2,DALYs (Disability-Adjusted Life Years),108,Belize,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1652.85303010957,1987.35094333579,1349.71877128487
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,374.55745892584,596.80711047231,214.76337855115
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,679.09280341757,1058.34703125548,403.48125650853
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,790.34826262805,1195.58658302237,495.44888782904
+2,DALYs (Disability-Adjusted Life Years),111,Dominican Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,846.3520977064701,1232.3694738726902,555.75670650003
+2,DALYs (Disability-Adjusted Life Years),114,Republic of Haiti,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,889.23959426208,1485.0295982509099,490.88287095627
+2,DALYs (Disability-Adjusted Life Years),114,Republic of Haiti,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1419.39727901517,2200.41266360911,834.80348345939
+2,DALYs (Disability-Adjusted Life Years),114,Republic of Haiti,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1872.3602539576,2916.14775455738,1079.0447323834599
+2,DALYs (Disability-Adjusted Life Years),114,Republic of Haiti,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2183.13822169489,3357.1107749391304,1272.6697208698001
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,502.73961695088997,674.9888465721,361.14332210261
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,959.82331909206,1254.04807171729,717.8088279187799
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1013.7322882722699,1329.70368493282,760.80962905632
+2,DALYs (Disability-Adjusted Life Years),112,Grenada,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1135.32120532865,1459.45350511413,870.7342701468199
+2,DALYs (Disability-Adjusted Life Years),113,Republic of Guyana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,540.92536203913,810.52690006491,329.11029990969
+2,DALYs (Disability-Adjusted Life Years),113,Republic of Guyana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,873.6319181097201,1285.13819206506,544.98713373081
+2,DALYs (Disability-Adjusted Life Years),113,Republic of Guyana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1100.29523888352,1594.15619898081,724.86300005593
+2,DALYs (Disability-Adjusted Life Years),113,Republic of Guyana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1356.39494262217,1924.0072964844,899.05729331025
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,378.9976587288,564.363494128,233.93506095719
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,650.13140263661,955.11372523039,422.35744757576
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,895.71051728135,1244.45954435283,621.96997696597
+2,DALYs (Disability-Adjusted Life Years),115,Jamaica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1068.04807441659,1484.69061181328,727.70172933242
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,453.85914820755,577.50057254879,352.95762995799
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,525.37681679336,653.67978439872,412.57821806361005
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,860.85332872599,1065.73525400066,674.7243401696
+2,DALYs (Disability-Adjusted Life Years),116,Saint Lucia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1018.40176579817,1286.7557742280499,798.7916653686301
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,362.36127936386004,489.24249532579,284.24086872863
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1223.80750498055,1464.27511292853,882.25704855288
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1460.687059099,1751.1375770433199,1230.21434012331
+2,DALYs (Disability-Adjusted Life Years),117,Saint Vincent and the Grenadines,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1554.60032912791,1899.89544543246,1269.10066761949
+2,DALYs (Disability-Adjusted Life Years),118,Republic of Suriname,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,482.12963500817995,698.25012047793,314.11633905323
+2,DALYs (Disability-Adjusted Life Years),118,Republic of Suriname,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,887.7400521731801,1254.9947671903599,580.34831989984
+2,DALYs (Disability-Adjusted Life Years),118,Republic of Suriname,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1411.4689721592802,1968.8811479743,941.6000410317
+2,DALYs (Disability-Adjusted Life Years),118,Republic of Suriname,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1211.55010186744,1674.15222877087,841.5276876930699
+2,DALYs (Disability-Adjusted Life Years),121,Plurinational State of Bolivia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,301.55755280882,507.23755143545,169.10538403449002
+2,DALYs (Disability-Adjusted Life Years),121,Plurinational State of Bolivia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,598.2203595104099,963.06446750988,342.22356627402
+2,DALYs (Disability-Adjusted Life Years),121,Plurinational State of Bolivia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1024.73688211185,1568.8792482079598,614.75354578769
+2,DALYs (Disability-Adjusted Life Years),121,Plurinational State of Bolivia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1400.70419733974,2197.88492362249,865.9930444139101
+2,DALYs (Disability-Adjusted Life Years),125,Republic of Colombia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,304.75378030263,385.09900259962,240.58117515042
+2,DALYs (Disability-Adjusted Life Years),125,Republic of Colombia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,427.07103060530005,546.59123432767,323.18171951472004
+2,DALYs (Disability-Adjusted Life Years),125,Republic of Colombia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,580.23154154908,726.7012606739399,461.09528202588
+2,DALYs (Disability-Adjusted Life Years),125,Republic of Colombia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,656.7393338217099,803.93860893827,534.42159422515
+2,DALYs (Disability-Adjusted Life Years),119,Republic of Trinidad and Tobago,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,308.3148703141,393.44918011268004,236.11193995090002
+2,DALYs (Disability-Adjusted Life Years),119,Republic of Trinidad and Tobago,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,733.99052245362,904.13163336301,578.9662056709
+2,DALYs (Disability-Adjusted Life Years),119,Republic of Trinidad and Tobago,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,909.85531729047,1144.98088665829,697.95073357564
+2,DALYs (Disability-Adjusted Life Years),119,Republic of Trinidad and Tobago,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,916.3198390204101,1155.57501209797,709.46501710081
+2,DALYs (Disability-Adjusted Life Years),122,Republic of Ecuador,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,261.53219509088,345.93503776488,190.22396767824
+2,DALYs (Disability-Adjusted Life Years),122,Republic of Ecuador,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,504.36690355224,677.5394493635399,375.63579381015
+2,DALYs (Disability-Adjusted Life Years),122,Republic of Ecuador,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,742.0735359078301,955.95244860129,568.83912743903
+2,DALYs (Disability-Adjusted Life Years),122,Republic of Ecuador,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,892.06306381112,1138.4417050941001,689.3088891760999
+2,DALYs (Disability-Adjusted Life Years),126,Republic of Costa Rica,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,172.78812623978,220.21944874832,133.46699003167
+2,DALYs (Disability-Adjusted Life Years),126,Republic of Costa Rica,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,333.74463964327,433.25939647525996,246.75847283311
+2,DALYs (Disability-Adjusted Life Years),126,Republic of Costa Rica,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,465.72832682247997,587.42306908541,356.01208828626
+2,DALYs (Disability-Adjusted Life Years),126,Republic of Costa Rica,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,468.76744250706,579.55591146785,372.41691225287997
+2,DALYs (Disability-Adjusted Life Years),127,Republic of El Salvador,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,346.15620512982997,468.05490387927995,251.05543196426
+2,DALYs (Disability-Adjusted Life Years),127,Republic of El Salvador,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,629.54095561118,810.12229111939,478.12212969597005
+2,DALYs (Disability-Adjusted Life Years),127,Republic of El Salvador,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,958.4634830318499,1193.6807940179299,757.76468652338
+2,DALYs (Disability-Adjusted Life Years),127,Republic of El Salvador,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1182.91869122006,1496.23095035936,917.81623046018
+2,DALYs (Disability-Adjusted Life Years),123,Republic of Peru,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,260.76123317087996,387.60370178293,162.18250414016
+2,DALYs (Disability-Adjusted Life Years),123,Republic of Peru,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,480.80855485648,689.42112251856,325.10863158829
+2,DALYs (Disability-Adjusted Life Years),123,Republic of Peru,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,802.31065718817,1150.69576043489,527.56027242421
+2,DALYs (Disability-Adjusted Life Years),123,Republic of Peru,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1110.0197050699499,1573.20288206664,745.44685044466
+2,DALYs (Disability-Adjusted Life Years),130,United Mexican States,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.86035068613003,246.43585043379,223.79723400595998
+2,DALYs (Disability-Adjusted Life Years),130,United Mexican States,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,372.9091139339,389.02138957732,358.40224171082
+2,DALYs (Disability-Adjusted Life Years),130,United Mexican States,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,475.18351239402006,498.83079129603004,455.26419809649
+2,DALYs (Disability-Adjusted Life Years),130,United Mexican States,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,580.24259620129,608.0781836997501,554.10478485234
+2,DALYs (Disability-Adjusted Life Years),131,Republic of Nicaragua,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,298.60843121353,417.84944243914003,206.44182966143
+2,DALYs (Disability-Adjusted Life Years),131,Republic of Nicaragua,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,637.7878364932,868.51955488464,460.53041585329
+2,DALYs (Disability-Adjusted Life Years),131,Republic of Nicaragua,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,793.40627591862,1061.81920850286,570.56684353566
+2,DALYs (Disability-Adjusted Life Years),131,Republic of Nicaragua,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,903.80132194906,1182.43175219504,684.54433902915
+2,DALYs (Disability-Adjusted Life Years),128,Republic of Guatemala,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,339.51638688458,392.97505222136,290.92755880970003
+2,DALYs (Disability-Adjusted Life Years),128,Republic of Guatemala,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,623.77959811479,715.2574428390101,539.6955383467999
+2,DALYs (Disability-Adjusted Life Years),128,Republic of Guatemala,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,911.0517881057399,1046.53547380531,798.0318084814401
+2,DALYs (Disability-Adjusted Life Years),128,Republic of Guatemala,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1230.72167958771,1436.32649092445,1049.44470849917
+2,DALYs (Disability-Adjusted Life Years),132,Republic of Panama,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,354.297223718,449.16343555174,272.3017206232
+2,DALYs (Disability-Adjusted Life Years),132,Republic of Panama,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,440.88756423059,567.23230111032,335.38652877358004
+2,DALYs (Disability-Adjusted Life Years),132,Republic of Panama,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,604.9259798739901,761.6647442159,481.36501135794003
+2,DALYs (Disability-Adjusted Life Years),132,Republic of Panama,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,723.6039529948199,878.29374490442,572.2329327301
+2,DALYs (Disability-Adjusted Life Years),129,Republic of Honduras,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,255.10372991298,455.88465225678993,113.65407600143001
+2,DALYs (Disability-Adjusted Life Years),129,Republic of Honduras,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,498.30501495942997,837.5117011477499,228.85157551468998
+2,DALYs (Disability-Adjusted Life Years),129,Republic of Honduras,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,897.65452537738,1429.4673356370301,458.71403345005
+2,DALYs (Disability-Adjusted Life Years),129,Republic of Honduras,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1198.24066921045,1870.18690781401,651.09804356739
+2,DALYs (Disability-Adjusted Life Years),133,Bolivarian Republic of Venezuela,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,553.6805311709101,733.16608882323,394.43801876862
+2,DALYs (Disability-Adjusted Life Years),133,Bolivarian Republic of Venezuela,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,907.5773228285599,1182.37489469967,671.3820200249199
+2,DALYs (Disability-Adjusted Life Years),133,Bolivarian Republic of Venezuela,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1119.10400338025,1452.74099087459,841.25195679896
+2,DALYs (Disability-Adjusted Life Years),133,Bolivarian Republic of Venezuela,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1240.23109243838,1647.95415488359,924.97456797391
+2,DALYs (Disability-Adjusted Life Years),136,Republic of Paraguay,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,416.75776277507,623.7293125628601,270.84811061249997
+2,DALYs (Disability-Adjusted Life Years),136,Republic of Paraguay,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,806.66668938033,1161.2787587446599,530.2040656391
+2,DALYs (Disability-Adjusted Life Years),136,Republic of Paraguay,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1087.43773842659,1548.62912105621,740.08584430104
+2,DALYs (Disability-Adjusted Life Years),136,Republic of Paraguay,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1325.94788241218,1856.65374264186,899.4513650759
+2,DALYs (Disability-Adjusted Life Years),139,People's Democratic Republic of Algeria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,87.93931923766,141.64788497081,50.91248212467
+2,DALYs (Disability-Adjusted Life Years),139,People's Democratic Republic of Algeria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,157.8119934712,251.19607676608,89.26316808716001
+2,DALYs (Disability-Adjusted Life Years),139,People's Democratic Republic of Algeria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,247.03904701801,385.739883074,154.71599337138
+2,DALYs (Disability-Adjusted Life Years),139,People's Democratic Republic of Algeria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,287.1196691505,434.86491064855,183.04348614595
+2,DALYs (Disability-Adjusted Life Years),135,Federative Republic of Brazil,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,287.50375349186,307.98223474063997,268.49617100769
+2,DALYs (Disability-Adjusted Life Years),135,Federative Republic of Brazil,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,424.85609042352996,458.46051464397,396.26907472319
+2,DALYs (Disability-Adjusted Life Years),135,Federative Republic of Brazil,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,560.0783884631301,597.37399847219,525.47765257538
+2,DALYs (Disability-Adjusted Life Years),135,Federative Republic of Brazil,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,603.4677926729,642.4485184498201,568.3468525122701
+2,DALYs (Disability-Adjusted Life Years),141,Arab Republic of Egypt,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.922702406,49.70108735505001,20.92861488325
+2,DALYs (Disability-Adjusted Life Years),141,Arab Republic of Egypt,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,55.599538544539996,84.67115303756,34.77492951033
+2,DALYs (Disability-Adjusted Life Years),141,Arab Republic of Egypt,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,91.37794471286,131.22543898128998,60.75713934669
+2,DALYs (Disability-Adjusted Life Years),141,Arab Republic of Egypt,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,111.875410182,155.08533057557,75.08992592345001
+2,DALYs (Disability-Adjusted Life Years),142,Islamic Republic of Iran,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,24.871859068139997,29.463242303789997,21.26167687668
+2,DALYs (Disability-Adjusted Life Years),142,Islamic Republic of Iran,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,44.074623328,50.804902738130004,36.75954290727
+2,DALYs (Disability-Adjusted Life Years),142,Islamic Republic of Iran,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,63.95561665709,74.84576754277,54.528600561679994
+2,DALYs (Disability-Adjusted Life Years),142,Islamic Republic of Iran,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,84.38085323822999,98.24754270797999,73.6091729747
+2,DALYs (Disability-Adjusted Life Years),143,Republic of Iraq,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.59916104261,42.21794088446,15.5255034785
+2,DALYs (Disability-Adjusted Life Years),143,Republic of Iraq,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,57.10695863667,94.10724557623,32.59359328589
+2,DALYs (Disability-Adjusted Life Years),143,Republic of Iraq,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,100.73099594007999,158.28395703284,59.26799073597999
+2,DALYs (Disability-Adjusted Life Years),143,Republic of Iraq,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,151.72661281729,235.40778858933,89.57524852344
+2,DALYs (Disability-Adjusted Life Years),140,Kingdom of Bahrain,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.64335672493,47.41390543676,17.82087011945
+2,DALYs (Disability-Adjusted Life Years),140,Kingdom of Bahrain,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,55.84375183891,87.55049852399,33.46203514573
+2,DALYs (Disability-Adjusted Life Years),140,Kingdom of Bahrain,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,100.11883020677,150.89539762055,62.728822779110004
+2,DALYs (Disability-Adjusted Life Years),140,Kingdom of Bahrain,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,116.14823830764,174.99486641598,74.07760021835
+2,DALYs (Disability-Adjusted Life Years),144,Hashemite Kingdom of Jordan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,25.17274719524,39.10787845195,15.31450677636
+2,DALYs (Disability-Adjusted Life Years),144,Hashemite Kingdom of Jordan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.0140520257,58.177127438430006,20.258377751970002
+2,DALYs (Disability-Adjusted Life Years),144,Hashemite Kingdom of Jordan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,67.05778728757,105.26703864847,41.31729483584
+2,DALYs (Disability-Adjusted Life Years),144,Hashemite Kingdom of Jordan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,103.25113010781,155.4276052815,67.36608763107
+2,DALYs (Disability-Adjusted Life Years),145,State of Kuwait,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,11.45320717773,15.197086426539999,8.40291296174
+2,DALYs (Disability-Adjusted Life Years),145,State of Kuwait,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.35854406979,30.707388771759998,15.76848566703
+2,DALYs (Disability-Adjusted Life Years),145,State of Kuwait,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,37.095221021209994,48.21442787427,28.009132716
+2,DALYs (Disability-Adjusted Life Years),145,State of Kuwait,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,53.29110337284,68.66376067131,40.86606854627
+2,DALYs (Disability-Adjusted Life Years),146,Lebanese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,30.35488961513,47.24507977458,18.48165531234
+2,DALYs (Disability-Adjusted Life Years),146,Lebanese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,54.916144917029996,84.66448347014,33.16599743964
+2,DALYs (Disability-Adjusted Life Years),146,Lebanese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,83.44361223531,129.41640657001,51.874276918540005
+2,DALYs (Disability-Adjusted Life Years),146,Lebanese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,110.50455389019,166.85578687391,72.0863264498
+2,DALYs (Disability-Adjusted Life Years),147,State of Libya,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,154.21152780626,257.27899073411,83.92872066046
+2,DALYs (Disability-Adjusted Life Years),147,State of Libya,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,230.41025744553,388.10750609067003,129.19876380065
+2,DALYs (Disability-Adjusted Life Years),147,State of Libya,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,370.58937113171,606.11007940343,209.47937758768998
+2,DALYs (Disability-Adjusted Life Years),147,State of Libya,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,500.40288170801006,769.85954653673,304.06613291316
+2,DALYs (Disability-Adjusted Life Years),148,Kingdom of Morocco,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,83.81060963016,146.18768456172998,46.81856167695
+2,DALYs (Disability-Adjusted Life Years),148,Kingdom of Morocco,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,193.5691275332,353.41674873339,103.50147026217
+2,DALYs (Disability-Adjusted Life Years),148,Kingdom of Morocco,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,361.81494866176,587.42197886239,204.76728742769
+2,DALYs (Disability-Adjusted Life Years),148,Kingdom of Morocco,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,549.52684358333,864.87639710001,325.51708317494
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,13.326372143240002,20.44980270942,8.32284749049
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,27.50167483335,40.61277426852,17.117973902750002
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,32.89309257078,49.266619250569995,20.748412005640002
+2,DALYs (Disability-Adjusted Life Years),149,Palestine,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,46.62850042826,68.53658987314999,30.27896678347
+2,DALYs (Disability-Adjusted Life Years),150,Sultanate of Oman,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,31.145013917400004,49.19048370601,18.85246022134
+2,DALYs (Disability-Adjusted Life Years),150,Sultanate of Oman,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,53.58669767320001,83.45536431840999,31.238889070109998
+2,DALYs (Disability-Adjusted Life Years),150,Sultanate of Oman,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,72.18869460872,111.42742004427,43.91188674001
+2,DALYs (Disability-Adjusted Life Years),150,Sultanate of Oman,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,97.17190723651001,147.90713982832,63.505879753669994
+2,DALYs (Disability-Adjusted Life Years),151,State of Qatar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,22.01814336845,35.26859427923,13.354254758260002
+2,DALYs (Disability-Adjusted Life Years),151,State of Qatar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,40.15474088459,66.78949495876,23.241167136839998
+2,DALYs (Disability-Adjusted Life Years),151,State of Qatar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,54.81490603453,83.96003889171,33.60860036839
+2,DALYs (Disability-Adjusted Life Years),151,State of Qatar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,85.49533663099001,130.99396829715002,53.73900586736001
+2,DALYs (Disability-Adjusted Life Years),152,Kingdom of Saudi Arabia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,18.43705251005,31.878519320339997,10.46770554478
+2,DALYs (Disability-Adjusted Life Years),152,Kingdom of Saudi Arabia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.72186396572,60.73722271822,19.4594335718
+2,DALYs (Disability-Adjusted Life Years),152,Kingdom of Saudi Arabia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,61.81134928582,105.17778352663,37.41036713567
+2,DALYs (Disability-Adjusted Life Years),152,Kingdom of Saudi Arabia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,80.48319596243,130.08875521436002,49.60385041808001
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,26.758525255429998,41.18696487998,16.04119493845
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,46.79989166502,74.76462557095,28.783488943080002
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,69.25613525164,103.71246741221,44.31321196569
+2,DALYs (Disability-Adjusted Life Years),153,Syrian Arab Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,96.50664644404,146.65985571315,61.84248249975
+2,DALYs (Disability-Adjusted Life Years),154,Republic of Tunisia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,60.73120786518,98.50007364387,32.94804543646
+2,DALYs (Disability-Adjusted Life Years),154,Republic of Tunisia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,104.84993453561,177.14037804737,57.033718291030006
+2,DALYs (Disability-Adjusted Life Years),154,Republic of Tunisia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,159.55990943906,260.52788980674,87.62020313018
+2,DALYs (Disability-Adjusted Life Years),154,Republic of Tunisia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,190.95850491322,297.04658671305,116.46358386385
+2,DALYs (Disability-Adjusted Life Years),155,Republic of Turkey,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,29.238173637690004,43.99844917843,18.71098957845
+2,DALYs (Disability-Adjusted Life Years),155,Republic of Turkey,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,57.49044391133,87.43382832293,37.01017129728
+2,DALYs (Disability-Adjusted Life Years),155,Republic of Turkey,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,84.96342963324,126.02092130777,52.239221552480004
+2,DALYs (Disability-Adjusted Life Years),155,Republic of Turkey,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,121.10903334887,173.08001059285,82.60996210114
+2,DALYs (Disability-Adjusted Life Years),157,Republic of Yemen,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,47.33051414253,87.39069498236,23.10876486906
+2,DALYs (Disability-Adjusted Life Years),157,Republic of Yemen,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,100.12186444256,185.10656149429,50.30870702764
+2,DALYs (Disability-Adjusted Life Years),157,Republic of Yemen,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,192.59292124225,327.99550835265,106.26858616094
+2,DALYs (Disability-Adjusted Life Years),157,Republic of Yemen,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,247.9380353375,421.70739418842,139.88567738759
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,68.15360816341,109.33380920466,40.77576962477
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,77.49388602626,122.77521050384,47.56130208638
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,171.5618311058,253.94367708897002,106.03553373036999
+2,DALYs (Disability-Adjusted Life Years),156,United Arab Emirates,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,192.64982971535,305.9982563749,121.33409579937
+2,DALYs (Disability-Adjusted Life Years),160,Islamic Republic of Afghanistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,211.87871548657,359.50085352446,109.29385633727
+2,DALYs (Disability-Adjusted Life Years),160,Islamic Republic of Afghanistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,384.66628501335,663.30668921606,177.67054609949
+2,DALYs (Disability-Adjusted Life Years),160,Islamic Republic of Afghanistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,640.02859332268,1072.28382448554,262.97341829976
+2,DALYs (Disability-Adjusted Life Years),160,Islamic Republic of Afghanistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,786.6087646807299,1313.87208206015,333.23224945607
+2,DALYs (Disability-Adjusted Life Years),162,Kingdom of Bhutan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,154.34946044964,277.93513002646,77.39616940726
+2,DALYs (Disability-Adjusted Life Years),162,Kingdom of Bhutan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,295.22513178038,504.54994366005997,154.21468882052
+2,DALYs (Disability-Adjusted Life Years),162,Kingdom of Bhutan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,507.93996430045,846.93887285741,286.62057006069
+2,DALYs (Disability-Adjusted Life Years),162,Kingdom of Bhutan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,674.24394293917,1081.11102616384,421.79272429046
+2,DALYs (Disability-Adjusted Life Years),161,People's Republic of Bangladesh,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,134.75091608,240.7811486811,66.97610072758
+2,DALYs (Disability-Adjusted Life Years),161,People's Republic of Bangladesh,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,261.99937871308,438.03981552501995,147.8947096924
+2,DALYs (Disability-Adjusted Life Years),161,People's Republic of Bangladesh,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,465.680019235,738.89283798068,268.22115740971003
+2,DALYs (Disability-Adjusted Life Years),161,People's Republic of Bangladesh,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,567.2595783919501,880.00364997156,333.96818136287004
+2,DALYs (Disability-Adjusted Life Years),163,Republic of India,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,163.14210932910999,203.33122809116003,135.89155977894
+2,DALYs (Disability-Adjusted Life Years),163,Republic of India,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,289.0082891899,352.46002054252,239.20786035897999
+2,DALYs (Disability-Adjusted Life Years),163,Republic of India,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,546.8376429277,644.95813972605,463.78044082806
+2,DALYs (Disability-Adjusted Life Years),163,Republic of India,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,739.26059837248,849.96621655988,639.24191361069
+2,DALYs (Disability-Adjusted Life Years),164,Federal Democratic Republic of Nepal,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,175.44210635518002,292.31794928286996,91.25264156449
+2,DALYs (Disability-Adjusted Life Years),164,Federal Democratic Republic of Nepal,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,322.32660450089,523.12899586113,177.81684340916001
+2,DALYs (Disability-Adjusted Life Years),164,Federal Democratic Republic of Nepal,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,578.72340121183,886.19539041617,339.79966823675
+2,DALYs (Disability-Adjusted Life Years),164,Federal Democratic Republic of Nepal,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,739.17196293036,1122.64416544357,448.22714729417
+2,DALYs (Disability-Adjusted Life Years),165,Islamic Republic of Pakistan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,141.69475241652998,211.33527546163998,90.40665866147
+2,DALYs (Disability-Adjusted Life Years),165,Islamic Republic of Pakistan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,203.03765979788002,315.29262442473,125.61915198913
+2,DALYs (Disability-Adjusted Life Years),165,Islamic Republic of Pakistan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,277.00853415384,415.55200220521,170.90644297165
+2,DALYs (Disability-Adjusted Life Years),165,Islamic Republic of Pakistan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,335.26432227262,487.31956087141003,221.70448252536
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,545.81693314352,945.7343378283699,297.92422015631
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,852.0998299949799,1453.4827592751599,467.45262009094
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1262.30707091096,2083.34196862128,720.91043177763
+2,DALYs (Disability-Adjusted Life Years),168,Republic of Angola,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1625.1225316696202,2640.87745796442,957.53388934623
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,751.5861141336,1237.93951006336,399.05631014623003
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1217.41358527591,2028.13239759354,645.27920596276
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2068.7677010070597,3377.09760094648,1104.15766146455
+2,DALYs (Disability-Adjusted Life Years),169,Central African Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2812.28399835536,4676.734522563051,1508.36741421187
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,689.06343572276,1184.90407568104,344.11506504209
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1201.81319233467,2022.3050765142602,639.2011545540399
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1908.80914964428,3167.38898066391,1018.0034588519101
+2,DALYs (Disability-Adjusted Life Years),170,Republic of the Congo,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2454.53598765875,4172.29413655006,1267.10286830504
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,515.05392667019,853.63652275855,279.81806544297996
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,848.49388685996,1402.72720079753,483.11253476066
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1290.7570503103,2147.5652287718203,734.23372701297
+2,DALYs (Disability-Adjusted Life Years),171,Democratic Republic of the Congo,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1807.1197668723098,2933.76042880627,1033.39044711651
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,411.79546635735,723.61378350811,210.44283526423
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,747.7938603574299,1268.84111122274,404.04740384839
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1162.89747068613,1973.96121885988,618.07956590034
+2,DALYs (Disability-Adjusted Life Years),173,Gabonese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1539.94676763612,2592.22211562006,857.86031683836
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,462.6609984258,852.27239292186,223.27467755845998
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,767.60332783784,1427.51512009592,358.6035824062
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1158.43462541972,2083.6730790924503,553.42329229441
+2,DALYs (Disability-Adjusted Life Years),172,Republic of Equatorial Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1491.85242420851,2808.93252958319,716.23681912288
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,478.28853455385,826.52448047579,264.56167484451004
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,844.11681768392,1383.22799104139,474.68485922737
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1410.90022921668,2163.11629547916,869.9522819567001
+2,DALYs (Disability-Adjusted Life Years),175,Republic of Burundi,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1927.4236722358899,2999.00348169256,1173.45446467739
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,449.17580360463,747.1700009853099,234.68007116805998
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,917.79921528442,1485.75197358599,543.4100216123101
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1478.4070079702,2273.8922003705397,873.6487685356001
+2,DALYs (Disability-Adjusted Life Years),176,Union of the Comoros,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1908.46212989237,2951.56180946333,1124.04574893909
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,517.35740351752,909.5112362067999,263.44648980649004
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1154.5885566525299,1926.71262521469,602.24746846787
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2195.66386921761,3677.70281952699,1217.1239916266
+2,DALYs (Disability-Adjusted Life Years),178,State of Eritrea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3124.3680354034,4969.26047342494,1791.68942230742
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,337.15873190329,624.98750863726,160.22119065695
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,703.56698295539,1253.45142300828,353.60864945564003
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1333.60802815409,2335.1374768433598,686.01079458378
+2,DALYs (Disability-Adjusted Life Years),177,Republic of Djibouti,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1861.27621129719,3186.22338299848,991.39385775817
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,268.28700803005,426.10027098483,174.21627180458
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,502.17618757814,750.98606448219,349.89768639055
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,802.98573632535,1335.97843643179,570.2483326208
+2,DALYs (Disability-Adjusted Life Years),179,Federal Democratic Republic of Ethiopia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1203.13038047402,1896.9042501436497,838.6219065491
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,204.13994638920997,307.82600363891,135.27273187964
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,410.48047606612,584.06436802401,272.83146887902
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,724.4924506771,1033.36095878136,476.56715737671
+2,DALYs (Disability-Adjusted Life Years),180,Republic of Kenya,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1047.11871450463,1463.67126207037,737.21956754351
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,532.7513105317,865.1882120288,277.27178945355
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,953.12527832296,1548.26094408184,501.42468354677004
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1561.2252143395099,2489.26595035268,850.653456827
+2,DALYs (Disability-Adjusted Life Years),181,Republic of Madagascar,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2025.87281205359,3255.5971888655904,1110.5347142923702
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,657.35467648856,1185.87651525424,355.08619331653
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1226.45331893497,2224.2526173624,634.50751768154
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2035.8507651932998,3649.8538534023696,1094.05221977684
+2,DALYs (Disability-Adjusted Life Years),184,Republic of Mozambique,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2785.65153914714,4849.8598028768,1490.25576982241
+2,DALYs (Disability-Adjusted Life Years),183,Republic of Mauritius,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,135.99167844434,161.41260441557998,113.39459392216999
+2,DALYs (Disability-Adjusted Life Years),183,Republic of Mauritius,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,236.49713965800998,278.19216506793003,199.68228704398
+2,DALYs (Disability-Adjusted Life Years),183,Republic of Mauritius,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,399.06339931972,467.94621521815,340.52290116981
+2,DALYs (Disability-Adjusted Life Years),183,Republic of Mauritius,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,477.04175781338,575.99011584438,394.81734559795996
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,789.06559616397,1269.99794491899,451.86794907853994
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1221.99234312112,1911.7074374341,697.79379071243
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1834.23515715927,2835.90780725281,1140.05095952033
+2,DALYs (Disability-Adjusted Life Years),182,Republic of Malawi,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2247.8617641958203,3419.9382322859897,1428.5116903922
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,419.20968383736,708.10140234184,226.88886295366999
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,781.6753556986,1332.91856683132,422.96042342265997
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1238.12122988999,1989.8605927730898,694.80016801891
+2,DALYs (Disability-Adjusted Life Years),185,Republic of Rwanda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1700.31698647948,2659.38535983707,1009.85347151643
+2,DALYs (Disability-Adjusted Life Years),186,Republic of Seychelles,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,312.68741102889,481.41659802148,202.4332840907
+2,DALYs (Disability-Adjusted Life Years),186,Republic of Seychelles,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,572.3384487807,841.2586771215799,369.55471907078
+2,DALYs (Disability-Adjusted Life Years),186,Republic of Seychelles,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,897.6438500145799,1277.15278990872,591.39162399483
+2,DALYs (Disability-Adjusted Life Years),186,Republic of Seychelles,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1138.56131959573,1574.50608592659,782.8482139596299
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,630.63983352208,1036.72289680462,343.35313447607996
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1242.37971173629,2140.4438405073297,682.00375959999
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2269.05141750546,3812.6858612896804,1238.71576566166
+2,DALYs (Disability-Adjusted Life Years),187,Federal Republic of Somalia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3130.9997779967402,5140.09330803393,1796.28401410974
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,396.19723093624,658.27523448523,224.6698023248
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,734.6245094948899,1182.71954083672,410.37663128484996
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1171.8623098534101,1775.83510665514,730.16409705847
+2,DALYs (Disability-Adjusted Life Years),189,United Republic of Tanzania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1604.29103122081,2431.74245540561,1000.8354428576
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,459.97705997788,738.5412728754,261.59964077233
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,857.45822292856,1320.36255422111,508.24398992449
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1303.0187164633398,2002.8595845246602,784.71161639659
+2,DALYs (Disability-Adjusted Life Years),190,Republic of Uganda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1626.90056706096,2514.26106009586,988.31204212827
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,614.76617628231,1412.3963890161,318.05795110639
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1161.13744370855,2455.50263637755,625.27347679313
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1841.05266211081,3683.8443513878,1021.5766708675
+2,DALYs (Disability-Adjusted Life Years),191,Republic of Zambia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2438.79698363139,4614.207315554901,1367.76402954724
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,311.46768089933,553.61270562372,145.89437279134
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,537.1078522837399,937.36293058881,284.90999485505
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,904.4000912403001,1499.2043633688,493.01300731434
+2,DALYs (Disability-Adjusted Life Years),195,Republic of Namibia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1205.6130337893198,1913.58717812264,650.96482869399
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,501.29638711424997,605.1374982314001,401.21997683339004
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1082.66501748857,1264.17924176336,916.26511551676
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1631.80395124693,1895.24662095991,1388.54210087445
+2,DALYs (Disability-Adjusted Life Years),196,Republic of South Africa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1820.2190360449601,2085.56359766195,1577.14017883238
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,294.56696718293,518.6987825957999,162.63667425245998
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,565.62572079427,970.5666125409001,309.99619195342
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,906.16365454132,1717.8235192560498,496.31948497419
+2,DALYs (Disability-Adjusted Life Years),193,Republic of Botswana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1253.64430739721,2025.48727236537,728.43064125706
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,621.75085652505,1092.24199712998,308.22244781137
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1325.63007305002,2428.15346097363,631.56603811798
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2489.23293993053,4270.112093704321,1251.12326424307
+2,DALYs (Disability-Adjusted Life Years),194,Kingdom of Lesotho,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3629.3649245799697,6231.620153779751,1823.7797992668
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,563.79897256528,1112.12334779384,238.21592491353002
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1140.09819821023,2204.00779264502,482.07185733958005
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2104.04556463795,3818.7002436141897,973.2397418034
+2,DALYs (Disability-Adjusted Life Years),197,Kingdom of Eswatini,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2979.12241017045,5386.03883647496,1369.63644100993
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,795.6263344842,1299.3829971657701,444.93622041640003
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1441.4838899660901,2298.57107068298,814.13172761497
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2586.59331683001,4089.9326383448397,1524.1699681831399
+2,DALYs (Disability-Adjusted Life Years),198,Republic of Zimbabwe,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,3510.90937444775,5676.18782977819,2081.9709519021503
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,402.49023824619,677.45412966351,220.75609852226
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,632.70300798605,1092.44241831794,344.36042240277
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1023.81548090001,1641.5238925230099,601.96962716647
+2,DALYs (Disability-Adjusted Life Years),201,Burkina Faso,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1213.86589543433,1845.29548795208,746.08661141136
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,416.1405783247,696.2521882321499,224.48318193338002
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,695.84591330131,1193.0907349412998,359.15458191346
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1099.94103486887,1843.0727561577103,604.4672608587599
+2,DALYs (Disability-Adjusted Life Years),202,Republic of Cameroon,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1299.9686197328501,2116.68381357989,723.431814189
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,393.79529303738,639.25503945147,204.04607390541997
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,671.35535303501,1073.5031768588701,357.36087170336
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1036.45912111859,1646.96503254438,576.66285412927
+2,DALYs (Disability-Adjusted Life Years),206,Republic of the Gambia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1225.90045833185,1969.3114224779501,737.2586414209201
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.63604720343,221.38967364063,75.28787524221
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,250.20610497864,400.95360970454,145.59605170701
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,472.92627127253,736.7366697874199,277.90706777258004
+2,DALYs (Disability-Adjusted Life Years),203,Republic of Cabo Verde,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,593.006678681,888.9099927474,376.91452025429004
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,286.74392346364,480.85086433662,161.18697508962998
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,510.18887784132,868.29354888607,280.55193999568
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,813.35163095191,1299.52902378642,467.14802697193005
+2,DALYs (Disability-Adjusted Life Years),200,Republic of Benin,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1020.71385024466,1552.303875811,636.60919978174
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,407.88616034577996,676.47183373015,220.91924472469998
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,703.68869238531,1207.7879200238401,377.70825023007
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1167.56446579552,1890.7606554557199,695.09965635172
+2,DALYs (Disability-Adjusted Life Years),204,Republic of Chad,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1577.60651250833,2452.97073374733,966.27490265376
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,384.2551173627,628.11845108499,215.31598678877
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,633.84304089238,1025.50273115292,362.55607708472
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1014.21354589717,1608.10053467578,589.3995346898399
+2,DALYs (Disability-Adjusted Life Years),207,Republic of Ghana,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1178.9819164886,1820.48102927629,696.61152906316
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,148.77483287727998,248.72125731416,81.7924295379
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,302.49153032918,491.97377670741,165.25093082667001
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,522.46267352029,857.68790521491,299.11255524526
+2,DALYs (Disability-Adjusted Life Years),205,Republic of Côte d'Ivoire,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,705.19297890346,1092.49076759006,395.85223392156996
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,432.31806811793,714.0587198037599,244.68718948021998
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,706.55308427762,1154.59422768287,404.37836246289004
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1061.53590367328,1653.00817610991,622.4102511180901
+2,DALYs (Disability-Adjusted Life Years),211,Republic of Mali,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1309.12579448389,1959.1513670936802,803.5101224903699
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,667.38200018942,1167.21219688381,365.62636422953
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1214.69722357033,1981.51504580888,678.21196070436
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1890.6161120525799,2978.78400141271,1116.50716713117
+2,DALYs (Disability-Adjusted Life Years),208,Republic of Guinea,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2217.99133699895,3399.9236570631897,1365.54896989547
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,702.56094470268,1154.18890545758,386.74739564232
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1211.47058494894,1962.54367339617,666.77302804589
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2052.4231213324,3259.5463649271896,1201.1611753331301
+2,DALYs (Disability-Adjusted Life Years),209,Republic of Guinea-Bissau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2444.69533390054,3768.5196078935596,1382.6846160837301
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,241.19503263507,404.13960124778004,123.37338793703
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,435.92262255033995,714.4761905847799,239.20800861815
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,808.1515469729,1318.26133020213,479.17297790136
+2,DALYs (Disability-Adjusted Life Years),212,Islamic Republic of Mauritania,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1093.80481487169,1755.12142669665,654.45939708962
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,376.49731806146997,615.54274397934,199.33635665362002
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,650.88482029425,1071.54446526715,348.55715607589997
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1035.5600637328598,1680.77867910218,595.337736586
+2,DALYs (Disability-Adjusted Life Years),210,Republic of Liberia,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1316.54099148349,1990.78248795736,811.17177906257
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,342.27959518043,617.4462979162,179.91096016518
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,559.5912853298801,1013.16774134598,306.20968175394
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,971.35657350539,1567.1651163422302,561.71251733788
+2,DALYs (Disability-Adjusted Life Years),213,Republic of the Niger,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1257.42944331211,1982.9654785644202,761.91238392982
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,234.45458563049002,401.891031709,130.94427431457
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,383.42728244474,626.7467345782201,221.58253016886002
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,597.17495736599,930.32813977503,373.81336803285
+2,DALYs (Disability-Adjusted Life Years),214,Federal Republic of Nigeria,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,774.61555042545,1213.42710581098,471.06349679044
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,405.18611964386,664.43892624481,222.47897511246
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,676.4547611852,1086.71208049314,371.97949360092
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1129.6729847798601,1818.30374924556,664.71131076988
+2,DALYs (Disability-Adjusted Life Years),217,Republic of Sierra Leone,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1355.9282141542599,2095.44107731936,807.6470163609799
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,421.20615358299,699.29715790946,242.72083761531002
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,678.28303488813,1106.61175070441,381.10349308832
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1116.57637495547,1768.9090036135801,642.5699009085499
+2,DALYs (Disability-Adjusted Life Years),218,Togolese Republic,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1339.64717627241,2065.92336566127,776.41763481902
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,224.48142120881997,362.48172931724,137.42551842226
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,424.63375479580003,666.59828809901,260.73875892265
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,791.9715508325501,1164.69524663708,500.33697437399
+2,DALYs (Disability-Adjusted Life Years),298,American Samoa,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,824.5401032962601,1217.9483289120901,523.47571930763
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,424.31997011024,772.76806428169,218.77219647284002
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,782.4781884972499,1248.15452078296,445.7092578135
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1294.34463791921,2072.68876323164,773.66665814486
+2,DALYs (Disability-Adjusted Life Years),215,Democratic Republic of Sao Tome and Principe,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1682.51049946328,2539.92670205419,1038.7672243247
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,70.61165600311,98.48209933547,48.68191694661
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,131.82087048035999,182.10574039826,93.96660198405
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,180.45150728847,243.99075745499002,130.36959875226
+2,DALYs (Disability-Adjusted Life Years),305,Bermuda,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,229.51709318797998,303.335607659,170.96715540593001
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,337.31038053781,559.64786607925,184.03355912173
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,598.4742947557,957.7403636398101,348.90585030763
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1016.4938423122501,1577.9955915311498,613.31438849929
+2,DALYs (Disability-Adjusted Life Years),216,Republic of Senegal,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1256.33652560615,1940.9817515497502,782.24536180862
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,60.393888077010004,97.48644487356,34.983895854080004
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,120.93192256261999,197.06821016173998,71.34763289198
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,226.565252923,356.76466742211,134.54117713976999
+2,DALYs (Disability-Adjusted Life Years),320,Cook Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,239.53149399668,366.42286267705,149.62558601181
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,323.86974250542,509.75510248134003,177.2963791935
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,478.93172558111,743.32168678079,286.7696387021
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,575.3825609261501,850.71899054316,360.76262452586
+2,DALYs (Disability-Adjusted Life Years),349,Greenland,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,653.28941721554,1012.7700366718499,398.25166102161995
+2,DALYs (Disability-Adjusted Life Years),351,Guam,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,166.76525764797,235.49618729726,118.28568355167
+2,DALYs (Disability-Adjusted Life Years),351,Guam,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,263.45612855216,352.76160517281,191.85840990375002
+2,DALYs (Disability-Adjusted Life Years),351,Guam,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,399.55019135718,509.02414525143996,300.1959704966
+2,DALYs (Disability-Adjusted Life Years),351,Guam,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,565.51440277535,752.2361397889599,416.55129340319996
+2,DALYs (Disability-Adjusted Life Years),374,Republic of Niue,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,201.96779056258,359.29663971581004,108.79337158227001
+2,DALYs (Disability-Adjusted Life Years),374,Republic of Niue,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,392.78471526488,660.58975700076,215.46543483430997
+2,DALYs (Disability-Adjusted Life Years),374,Republic of Niue,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,680.55117193965,1113.49295477836,403.03136227216
+2,DALYs (Disability-Adjusted Life Years),374,Republic of Niue,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,725.60576133609,1148.01651853749,433.88512080456
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,251.78770005243,385.14911114700004,154.49650639659
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,502.64581950122,806.21500091055,306.98203303587
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1020.4287874443,1583.78136090561,637.3378478788001
+2,DALYs (Disability-Adjusted Life Years),376,Northern Mariana Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1044.8285946675398,1588.6028416488898,678.56419318264
+2,DALYs (Disability-Adjusted Life Years),380,Republic of Palau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,572.16507689954,904.0751231446201,329.14719402699
+2,DALYs (Disability-Adjusted Life Years),380,Republic of Palau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1014.05198160951,1548.16668100054,627.08793753636
+2,DALYs (Disability-Adjusted Life Years),380,Republic of Palau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1583.7768283651,2332.98068264501,1016.6640587708499
+2,DALYs (Disability-Adjusted Life Years),380,Republic of Palau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1574.5174209075199,2328.36225876739,995.8845713796899
+2,DALYs (Disability-Adjusted Life Years),367,Principality of Monaco,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,102.26254895274,173.1853895753,55.830900900879996
+2,DALYs (Disability-Adjusted Life Years),367,Principality of Monaco,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,163.55887703669,277.73490163836,83.79551545209
+2,DALYs (Disability-Adjusted Life Years),367,Principality of Monaco,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,184.49772969651,312.60450677015,100.87533193506
+2,DALYs (Disability-Adjusted Life Years),367,Principality of Monaco,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,188.86456576020998,287.14279094304,117.4332935031
+2,DALYs (Disability-Adjusted Life Years),369,Republic of Nauru,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,597.3150877386,1002.2389383389001,297.73005536335
+2,DALYs (Disability-Adjusted Life Years),369,Republic of Nauru,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1105.3373927986602,1916.2125489165599,549.9203799300401
+2,DALYs (Disability-Adjusted Life Years),369,Republic of Nauru,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1879.7800627389402,3107.45825563025,996.0228808819401
+2,DALYs (Disability-Adjusted Life Years),369,Republic of Nauru,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1903.6136744318699,2987.35151102391,1101.0493803153902
+2,DALYs (Disability-Adjusted Life Years),396,Republic of San Marino,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,35.12235263931,56.08965649274,20.08838448716
+2,DALYs (Disability-Adjusted Life Years),396,Republic of San Marino,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,55.602812458660004,91.88678474915,32.32225793499
+2,DALYs (Disability-Adjusted Life Years),396,Republic of San Marino,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,74.89637428630999,114.70338191869,44.45145439437
+2,DALYs (Disability-Adjusted Life Years),396,Republic of San Marino,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,86.97205278653,132.70960890419,52.46250856019
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,282.05322438025,490.26290547749005,152.8513336987
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,554.64088904972,968.6208540762801,290.22026660885
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,936.8781200018101,1506.21972691514,515.37695635341
+2,DALYs (Disability-Adjusted Life Years),413,Tokelau,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,963.3255141695,1577.3214465766398,551.46358268492
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,121.67480348194,161.34831638534,93.5003532393
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,220.1890392789,293.26604982545,160.36144980425
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,263.44151731898,337.59251023742,203.91476724201
+2,DALYs (Disability-Adjusted Life Years),385,Puerto Rico,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,308.62239137298,390.86087316448004,245.11568461609
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,179.30491509333,251.40025121609997,108.99054866821
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,365.01861787495,489.34716883141,242.4062458095
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,576.33654377415,742.02425572025,423.74617495945
+2,DALYs (Disability-Adjusted Life Years),393,Saint Kitts and Nevis,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,776.91481997549,1017.64557374497,589.79286094981
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,379.8955028094,626.14786395987,210.12839940031998
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,725.44234428803,1202.9219919254401,405.52168628394
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1276.12326910016,2058.63997304615,755.43581870387
+2,DALYs (Disability-Adjusted Life Years),416,Tuvalu,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1336.05993003086,2081.00539682298,781.9141189214
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,505.36559118455995,882.6578146175299,267.47686715441
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,967.3157278692499,1694.53463388345,527.89823913648
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,1609.4341469007502,2535.56145263277,917.1312277048401
+2,DALYs (Disability-Adjusted Life Years),435,Republic of South Sudan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,2201.57308022357,3513.53058225329,1266.10045438125
+2,DALYs (Disability-Adjusted Life Years),522,Republic of Sudan,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,62.78476110068,114.09778666282,29.119833788839998
+2,DALYs (Disability-Adjusted Life Years),522,Republic of Sudan,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,114.33171309488999,201.92621303323,54.195463898469995
+2,DALYs (Disability-Adjusted Life Years),522,Republic of Sudan,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,165.95938957924,280.55361345871,85.4192297358
+2,DALYs (Disability-Adjusted Life Years),522,Republic of Sudan,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,205.40574179208002,335.07645430261005,110.55898239119999
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,2,Female,11,30-34 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,201.78554583625,330.18814212487,110.78834314728999
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,2,Female,12,35-39 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,255.2202450481,419.57627682014,141.78031674962
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,2,Female,13,40-44 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,377.65520118805,601.85889224066,227.93680732254998
+2,DALYs (Disability-Adjusted Life Years),422,United States Virgin Islands,2,Female,14,45-49 years,432,Cervical cancer,169,All risk factors,3,Rate,2019,787.5035990804901,1172.46917818544,496.06222269542997
