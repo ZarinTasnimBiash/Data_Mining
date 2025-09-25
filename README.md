@@ -5,8 +5,8 @@ Analyzing Global Trends in Cervical Cancer Screening Programs
 =======
 
 - Cervical cancer is one of the most preventable cancers through effective screening programs.
-- Our dataset consists of 3 different screening methods, and we tried to compare their effectiveness across countries.
-- Our project aims to analyze cervical cancer screening programs for women aged 30-49 in the year 2019 using WHO data.
+- The dataset consists of 3 different screening methods, and I tried to compare their effectiveness across countries.
+- The project aims to analyze cervical cancer screening programs for women aged 30-49 in the year 2019 using WHO data.
 
 # Research Question
 
@@ -64,7 +64,7 @@ Link to data source:
 - Mortality, Coverage, Prevalence of screened patients dataset values are in percentage.
 - Prevalence of cancer, Incidence of cancer dataset values are in ratio per 100,000 people.
 - Disability adjusted life years, Years lost with disability, Years lived with disability  dataset values are in number of years per 100,000 people.
-- We used MinMax standardization to bring all the data values into the 0-1 range. 
+- MinMax standardization was then used to bring all the data values into the 0-1 range. 
 
 ---
 
@@ -81,7 +81,7 @@ Used 3 clustering techniques to group countries based on the effectiveness of th
 ## Methodology: Agglomerative Clustering
 
 - Generated the dendrogram on the right after performing agglomerative clustering.
-- We deduced that we can set our clustering numbers to 4 according to the dendrogram to try out the K-Means clustering method as well.
+- A deduction is then done that the clustering numbers can be set to 4 according to the dendrogram to try out the K-Means clustering method as well.
 [Dendogram for Agglomerative Clustering](https://github.com/ZarinTasnimBiash/Data_Mining/blob/main/images/Agglomerative_Clustering.png)
 ---
 
@@ -105,7 +105,7 @@ Used 3 clustering techniques to group countries based on the effectiveness of th
 ## Conclusion
 - The widely available data related to cervical cancer is quite large and detailed.
 - The least effective method was as expected the visual inspection method. On the other hand, the most effective and widely used proved to be the PAP smear method.
-- In our project we struggled the most with interpreting the outcomes of our clustering algorithms.
+- IIt was difficult to interpret the outcomes of our clustering algorithms.
 
 
 
